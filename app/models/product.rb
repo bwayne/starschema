@@ -10,5 +10,7 @@ class Product < ActiveRecord::Base
 		order_items.count
 	end
 
+# testing whether gitignore will work
+
 
 end
