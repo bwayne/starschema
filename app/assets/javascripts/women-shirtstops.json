@@ -1,0 +1,583 @@
+{
+  "name": "J Crew Women All ShirtsTops",
+  "count": 71,
+  "frequency": "On demand",
+  "version": 1,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 19:32:26 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 19:32:10 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_shirtstops": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B5034/B5034.jsp",
+          "text": "Sequin side-stripe shirt in blue"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B5033/B5033.jsp",
+          "text": "Sequin side-stripe shirt in white"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B6325/B6325.jsp",
+          "text": "Gold side-stripe popover"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B6324/B6324.jsp",
+          "text": "Beaded chevron popover in black watch plaid"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B6172/B6172.jsp",
+          "text": "Boyfriend flannel shirt in dark plaid"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B4822/B4822.jsp",
+          "text": "Boyfriend flannel shirt in red plaid"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B1089/B1089.jsp",
+          "text": "Flannel shirt in buffalo check"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B4931/B4931.jsp",
+          "text": "Shrunken boy shirt in cerise plaid"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B5305/B5305.jsp",
+          "text": "Shrunken boy shirt in navy plaid"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B4818/B4818.jsp",
+          "text": "Side-stripe shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B4820/B4820.jsp",
+          "text": "Beaded chevron popover in vintage surplus"
+        },
+        "price": "98.00",
+        "sale_price": "69.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B6292/B6292.jsp",
+          "text": "Beaded chevron popover in taupe"
+        },
+        "price": "98.00",
+        "sale_price": "69.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B6289/B6289.jsp",
+          "text": "Beaded chevron popover in white"
+        },
+        "price": "98.00",
+        "sale_price": "69.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/casualshirts/PRDOVR~B4821/B4821.jsp",
+          "text": "Crinkle check shirt"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B4168/B4168.jsp",
+          "text": "Drapey tuxedo top"
+        },
+        "price": "110.00",
+        "sale_price": "88.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B7932/B7932.jsp",
+          "text": "Gilded chevron mixed shell"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B4805/B4805.jsp",
+          "text": "Mixed media bib blouse"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B6351/B6351.jsp",
+          "text": "Silk georgette lace blouse"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B4817/B4817.jsp",
+          "text": "Flannel raglan top in houndstooth"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B4816/B4816.jsp",
+          "text": "Flannel raglan top in windowpane"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B2607/B2607.jsp",
+          "text": "Classic silk blouse"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B6358/B6358.jsp",
+          "text": "Cap-sleeve shirttail blouse"
+        },
+        "price": "88.00",
+        "sale_price": "59.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~21421/21421.jsp",
+          "text": "Silk cami"
+        },
+        "price": "59.50",
+        "sale_price": "49.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~A9873/A9873.jsp",
+          "text": "Endless shirt in stripe"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~A9932/A9932.jsp",
+          "text": "Endless shirt"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B5703/B5703.jsp",
+          "text": "Seamed panel tee"
+        },
+        "price": "59.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B7182/B7182.jsp",
+          "text": "Jeweled dolman top"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B6698/B6698.jsp",
+          "text": "Silky-front tee in stripe"
+        },
+        "price": "65.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B6695/B6695.jsp",
+          "text": "Silky-front tee"
+        },
+        "price": "65.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B6374/B6374.jsp",
+          "text": "Fringe tank"
+        },
+        "price": "68.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/topsblouses/PRDOVR~B7523/B7523.jsp",
+          "text": "Metallic front tank"
+        },
+        "price": "68.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/denimchambray/PRDOVR~B2549/B2549.jsp",
+          "text": "Chambray shirt"
+        },
+        "price": "78.00",
+        "sale_price": "68.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/denimchambray/PRDOVR~07678/07678.jsp",
+          "text": "Selvedge chambray shirt"
+        },
+        "price": "98.00",
+        "sale_price": "88.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/denimchambray/PRDOVR~44875/44875.jsp",
+          "text": "Keeper chambray shirt"
+        },
+        "price": "78.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~B4169/B4169.jsp",
+          "text": "Piqué bib shirt"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~B6048/B6048.jsp",
+          "text": "End-on-end long shirt"
+        },
+        "price": "78.00",
+        "sale_price": "68.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~A9873/A9873.jsp",
+          "text": "Endless shirt in stripe"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~A9932/A9932.jsp",
+          "text": "Endless shirt"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~B6050/B6050.jsp",
+          "text": "Endless shirt in burgundy stripe"
+        },
+        "price": "78.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~B5427/B5427.jsp",
+          "text": "Thomas Mason® for J.Crew french-cuff shirt"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~B3520/B3520.jsp",
+          "text": "Thomas Mason® for J.Crew collarless tuxedo shirt"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~B3572/B3572.jsp",
+          "text": "Thomas Mason® for J.Crew bib top"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~50084/50084.jsp",
+          "text": "Thomas Mason® for J.Crew mandarin-collar tuxedo shirt"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~40718/40718.jsp",
+          "text": "Thomas Mason® for J.Crew tuxedo shirt"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~30627/30627.jsp",
+          "text": "Thomas Mason® for J.Crew tuxedo shirt in blue"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~30630/30630.jsp",
+          "text": "Thomas Mason® for J.Crew boy shirt"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~44541/44541.jsp",
+          "text": "Boy shirt in classic white"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~05102/05102.jsp",
+          "text": "Boy shirt in stripe poplin"
+        },
+        "price": "78.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~04681/04681.jsp",
+          "text": "Boy shirt in end-on-end"
+        },
+        "price": "78.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~29866/29866.jsp",
+          "text": "Stretch perfect shirt"
+        },
+        "price": "72.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~44175/44175.jsp",
+          "text": "Stretch perfect shirt in classic stripe"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/classicshirts/PRDOVR~29865/29865.jsp",
+          "text": "Three-quarter sleeve stretch perfect shirt"
+        },
+        "price": "64.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B1012/B1012.jsp",
+          "text": "Collection crepe scoop-back top"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B6573/B6573.jsp",
+          "text": "Collection satin top"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B6347/B6347.jsp",
+          "text": "Pre-order Collection jeweled satin top"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B5365/B5365.jsp",
+          "text": "Collection boiled wool top with satin sleeves"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B6144/B6144.jsp",
+          "text": "Collection wool flannel top with Thomas Mason® sleeves"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B5398/B5398.jsp",
+          "text": "Collection Thomas Mason® silk bib popover"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B5396/B5396.jsp",
+          "text": "Collection silk bib top"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B4940/B4940.jsp",
+          "text": "Collection silk shirt in varsity stripe"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B3437/B3437.jsp",
+          "text": "Collection silk stripe blouse"
+        },
+        "price": "250.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B3515/B3515.jsp",
+          "text": "Collection sequin fringe top"
+        },
+        "price": "1,200.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B3438/B3438.jsp",
+          "text": "Collection mixed tweed sweatshirt"
+        },
+        "price": "550.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B3443/B3443.jsp",
+          "text": "Collection gilded floral jacquard top"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B5354/B5354.jsp",
+          "text": "Collection perforated wool top"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B1174/B1174.jsp",
+          "text": "Collection double-face cashmere top"
+        },
+        "price": "995.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~03846/03846.jsp",
+          "text": "Collection double-faced cashmere tee"
+        },
+        "price": "895.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B2665/B2665.jsp",
+          "text": "Apiece Apart™ Serra ruffle blouse"
+        },
+        "price": "215.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B2654/B2654.jsp",
+          "text": "Apiece Apart™ Roberta crop top in fawn print"
+        },
+        "price": "315.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B2661/B2661.jsp",
+          "text": "PLAY Comme des Garçons® red heart blouse"
+        },
+        "price": "260.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shirtsandtops/Jcrewcollection/PRDOVR~B2655/B2655.jsp",
+          "text": "PLAY Comme des Garçons® stripe blouse"
+        },
+        "price": "270.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

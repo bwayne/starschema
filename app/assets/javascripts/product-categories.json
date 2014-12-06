@@ -1,0 +1,288 @@
+[{ "name":"Women", "parent":null },
+{ "name":"Men","parent":null },
+  {"name":"Girls", "parent":null },
+  { "name":"Boys", "parent":null },
+  {
+    "name":"Sweaters",
+    "parent":1
+  },
+  {
+    "name":"Knits & Tees",
+    "parent":"Women"
+  },
+  {
+    "name":"Shirts & Tops",
+    "parent":"Women"
+  },
+  {
+    "name":"Denim",
+    "parent":1
+  },
+  {
+    "name":"Pants",
+    "parent":1
+  },
+  {
+    "name":"Outerwear",
+    "parent":1
+  },
+  {
+    "name":"Blazers",
+    "parent":1
+  },
+  {
+    "name":"Dresses",
+    "parent":1
+  },
+  {
+    "name":"Skirts",
+    "parent":1
+  },
+  {
+    "name":"Shorts",
+    "parent":1
+  },
+  {
+    "name":"Suiting",
+    "parent":1
+  },
+  {
+    "name":"Weddings & Parties",
+    "parent":1
+  },
+  {
+    "name":"Sleepwear",
+    "parent":1
+  },
+  {
+    "name":"Swim",
+    "parent":1
+  },
+  {
+    "name":"Maternity",
+    "parent":1
+  },
+  {
+    "name":"Shoes",
+    "parent":1
+  },
+  {
+    "name":"Jewelry",
+    "parent":1
+  },
+  {
+    "name":"Fine Jewelry",
+    "parent":1
+  },
+  {
+    "name":"Bags",
+    "parent":1
+  },
+  {
+    "name":"Accessories",
+    "parent":1
+  },
+  {
+    "name":"Home & Gifts",
+    "parent":1
+  },
+  {
+    "name":"Eyewear",
+    "parent":1
+  },
+  {
+    "name":"Beauty",
+    "parent":1
+  },
+  {
+    "name":"Intimates",
+    "parent":1
+  },
+  {
+    "name":"Casual Shirts",
+    "parent":2
+  },
+  {
+    "name":"Dress Shirts",
+    "parent":2
+  },
+  {
+    "name":"Sweaters",
+    "parent":2
+  },
+  {
+    "name":"Tees & Polos",
+    "parent":2
+  },
+  {
+    "name":"Sweatshirts & Sweatpants",
+    "parent":2
+  },
+  {
+    "name":"Pants & Denim",
+    "parent":2
+  },
+  {
+    "name":"Shorts & Swim",
+    "parent":2
+  },
+  {
+    "name":"Outerwear",
+    "parent":2
+  },
+  {
+    "name":"Suiting",
+    "parent":2
+  },
+  {
+    "name":"Sportcoats & Vests",
+    "parent":2
+  },
+  {
+    "name":"Ties & Pocket Squares",
+    "parent":2
+  },
+  {
+    "name":"Shoes",
+    "parent":2
+  },
+  {
+    "name":"Accessories",
+    "parent":2
+  },
+  {
+    "name":"Bags",
+    "parent":2
+  },
+  {
+    "name":"Underwear & Sleepwear",
+    "parent":2
+  },
+  {
+    "name":"Dresses",
+    "parent":3
+  },
+  {
+    "name":"Knits & Tees",
+    "parent":3
+  },
+  {
+    "name":"Collectible Tees",
+    "parent":3
+  },
+  {
+    "name":"Shirts",
+    "parent":3
+  },
+  {
+    "name":"Sweaters",
+    "parent":3
+  },
+  {
+    "name":"Leggings",
+    "parent":3
+  },
+  {
+    "name":"Denim",
+    "parent":3
+  },
+  {
+    "name":"Pants & Shorts",
+    "parent":3
+  },
+  {
+    "name":"Skirts",
+    "parent":3
+  },
+  {
+    "name":"Outerwear",
+    "parent":3
+  },
+  {
+    "name":"Jackets",
+    "parent":3
+  },
+  {
+    "name":"Shoes",
+    "parent":3
+  },
+  {
+    "name":"Jewelry & Accessories",
+    "parent":3
+  },
+  {
+    "name":"Bags",
+    "parent":3
+  },
+  {
+    "name":"Sleepwear",
+    "parent":3
+  },
+  {
+    "name":"Swim",
+    "parent":3
+  },
+  {
+    "name":"Tees & Polos",
+    "parent":4
+  },
+  {
+    "name":"Graphics Shop",
+    "parent":4
+  },
+  {
+    "name":"Hoodies & Sweatshirts",
+    "parent":4
+  },
+  {
+    "name":"Shirts",
+    "parent":4
+  },
+  {
+    "name":"Sweaters",
+    "parent":4
+  },
+  {
+    "name":"Pants & Shorts",
+    "parent":4
+  },
+  {
+    "name":"Swim & Rash Guards",
+    "parent":4
+  },
+  {
+    "name":"Outerwear",
+    "parent":4
+  },
+  {
+    "name":"Suiting",
+    "parent":4
+  },
+  {
+    "name":"Sportcoats & Vests",
+    "parent":4
+  },
+  {
+    "name":"Ties & Bow Ties",
+    "parent":4
+  },
+  {
+    "name":"Shoes",
+    "parent":4
+  },
+  {
+    "name":"Accessories",
+    "parent":4
+  },
+  {
+    "name":"Sleepwear",
+    "parent":4
+  },
+  {
+    "name":"Underwear",
+    "parent":4
+  },
+  {
+    "name":"Toys & Books",
+    "parent":4}
+    ]

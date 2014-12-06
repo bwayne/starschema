@@ -1,0 +1,263 @@
+{
+  "name": "J Crew Women All Blazers",
+  "count": 31,
+  "frequency": "On demand",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 20:12:26 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 20:12:22 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_blazers": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/novelty/PRDOVR~B6955/B6955.jsp",
+          "text": "Collection shawl-collar tuxedo blazer"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/novelty/PRDOVR~B7845/B7845.jsp",
+          "text": "Collection velvet shawl-collar tuxedo blazer"
+        },
+        "price": "325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/novelty/PRDOVR~B6149/B6149.jsp",
+          "text": "Satin jacket"
+        },
+        "price": "268.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/novelty/PRDOVR~B6148/B6148.jsp",
+          "text": "Collection Rylan blazer in textured satin"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/regent/PRDOVR~B0323/B0323.jsp",
+          "text": "Regent blazer"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/regent/PRDOVR~B0688/B0688.jsp",
+          "text": "Regent blazer in glen plaid"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/regent/PRDOVR~B0684/B0684.jsp",
+          "text": "Regent blazer in houndstooth"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/regent/PRDOVR~B0807/B0807.jsp",
+          "text": "Regent blazer in pinstripe"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/schoolboy/PRDOVR~B0799/B0799.jsp",
+          "text": "Schoolboy tipped blazer"
+        },
+        "price": "268.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/schoolboy/PRDOVR~02469/02469.jsp",
+          "text": "Schoolboy blazer in wool flannel"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/schoolboy/PRDOVR~03792/03792.jsp",
+          "text": "Schoolboy blazer in velvet"
+        },
+        "price": "178.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/schoolboy/PRDOVR~05157/05157.jsp",
+          "text": "Schoolboy blazer in black"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/schoolboy/PRDOVR~03171/03171.jsp",
+          "text": "Schoolboy blazer in navy"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~B6955/B6955.jsp",
+          "text": "Collection shawl-collar tuxedo blazer"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~B7845/B7845.jsp",
+          "text": "Collection velvet shawl-collar tuxedo blazer"
+        },
+        "price": "325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~B6148/B6148.jsp",
+          "text": "Collection Rylan blazer in textured satin"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~B3742/B3742.jsp",
+          "text": "Collection regent blazer in cashmere"
+        },
+        "price": "880.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~04388/04388.jsp",
+          "text": "Women's Ludlow blazer in wool gabardine"
+        },
+        "price": "375.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~04845/04845.jsp",
+          "text": "Collection women's Ludlow blazer in Italian wool"
+        },
+        "price": "495.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~84797/84797.jsp",
+          "text": "Collection women's Ludlow jacket in Italian cashmere"
+        },
+        "price": "1,100.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~04497/04497.jsp",
+          "text": "Women's Ludlow blazer in Italian wool flannel"
+        },
+        "price": "325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~04498/04498.jsp",
+          "text": "Women's Ludlow blazer in glen plaid Italian wool"
+        },
+        "price": "425.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/jcrewcollection/PRDOVR~B0702/B0702.jsp",
+          "text": "Collection women's Ludlow blazer in mini-houndstooth"
+        },
+        "price": "425.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~B4774/B4774.jsp",
+          "text": "Bonded crepe jacket"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~B3231/B3231.jsp",
+          "text": "1035 single-button jacket in Italian stretch wool"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~95961/95961.jsp",
+          "text": "1035 jacket in Italian stretch wool"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~28135/28135.jsp",
+          "text": "1035 jacket in pinstripe Super 120s wool"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~23346/23346.jsp",
+          "text": "1035 jacket in Super 120s wool"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~64605/64605.jsp",
+          "text": "Sidney jacket in Super 120s wool"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~64706/64706.jsp",
+          "text": "Sidney jacket in pinstripe Super 120s wool"
+        },
+        "price": "248.00",
+        "sale_price": "238.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/blazers/suitingblazers/PRDOVR~84797/84797.jsp",
+          "text": "Collection women's Ludlow jacket in Italian cashmere"
+        },
+        "price": "1,100.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

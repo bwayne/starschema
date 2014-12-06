@@ -1,0 +1,343 @@
+{
+  "name": "J Crew Women All Skirts",
+  "count": 41,
+  "frequency": "On demand",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 20:18:53 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 20:18:47 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_skirts": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B4754/B4754.jsp",
+          "text": "Origami skirt in metallic matelassé"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B5596/B5596.jsp",
+          "text": "Origami skirt with sequin stripe"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B5282/B5282.jsp",
+          "text": "Origami skirt in elephant parade"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B6123/B6123.jsp",
+          "text": "Origami skirt in tux stripe"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B4439/B4439.jsp",
+          "text": "Origami skirt in metallic tweed"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B4438/B4438.jsp",
+          "text": "Box pleat skirt in crepe"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B4747/B4747.jsp",
+          "text": "Flounce skirt in bonded wool"
+        },
+        "price": "110.00",
+        "sale_price": "98.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B5919/B5919.jsp",
+          "text": "Mixed velvet skirt"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B4435/B4435.jsp",
+          "text": "Blurred ikat skirt"
+        },
+        "price": "118.00",
+        "sale_price": "79.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B0756/B0756.jsp",
+          "text": "Plaza skirt in tweed"
+        },
+        "price": "118.00",
+        "sale_price": "108.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/mini/PRDOVR~B2639/B2639.jsp",
+          "text": "Flouncy lace skirt"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/pencil/PRDOVR~B6096/B6096.jsp",
+          "text": "Asymmetrical crossover pencil skirt"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/pencil/PRDOVR~B5274/B5274.jsp",
+          "text": "Glen plaid crossover skirt"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/pencil/PRDOVR~B0145/B0145.jsp",
+          "text": "Asymmetrical zip pencil skirt in wool"
+        },
+        "price": "138.00",
+        "sale_price": "118.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/pencil/PRDOVR~B0498/B0498.jsp",
+          "text": "Midnight tweed pencil skirt"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/pencil/PRDOVR~B2369/B2369.jsp",
+          "text": "Pull-on pinstripe skirt"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/pencil/PRDOVR~02676/02676.jsp",
+          "text": "No. 2 pencil skirt in double-serge wool"
+        },
+        "price": "130.00",
+        "sale_price": "110.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/alinefull/PRDOVR~B5275/B5275.jsp",
+          "text": "Sunburst midi skirt in faux leather"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/alinefull/PRDOVR~B5590/B5590.jsp",
+          "text": "A-line skirt in bonded wool"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/alinefull/PRDOVR~B2641/B2641.jsp",
+          "text": "Apiece Apart™ Livia blanket skirt"
+        },
+        "price": "410.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/alinefull/PRDOVR~B2642/B2642.jsp",
+          "text": "Apiece Apart™ Diega pleated skirt"
+        },
+        "price": "420.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B6052/B6052.jsp",
+          "text": "Collection gilded chevron skirt"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B3168/B3168.jsp",
+          "text": "Collection gilded floral jacquard skirt"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B6846/B6846.jsp",
+          "text": "Collection jeweled box-pleat skirt"
+        },
+        "price": "178.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B4457/B4457.jsp",
+          "text": "Collection perforated wool skirt"
+        },
+        "price": "325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B0890/B0890.jsp",
+          "text": "Collection A-line skirt in Italian wool gauze"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B0888/B0888.jsp",
+          "text": "Collection garnet tweed skirt"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B2036/B2036.jsp",
+          "text": "Collection ochre floral skirt"
+        },
+        "price": "325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B2720/B2720.jsp",
+          "text": "Collection holographic snake print skirt"
+        },
+        "price": "895.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B2313/B2313.jsp",
+          "text": "Collection lace pencil skirt"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B2639/B2639.jsp",
+          "text": "Flouncy lace skirt"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B2300/B2300.jsp",
+          "text": "Collection asymmetrical leather zip pencil skirt"
+        },
+        "price": "595.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/jcrewcollection/PRDOVR~B2315/B2315.jsp",
+          "text": "Collection plaza skirt in laser-cut leather"
+        },
+        "price": "595.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~B4761/B4761.jsp",
+          "text": "Bonded crepe skirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~B2618/B2618.jsp",
+          "text": "Pleated skirt in Super 120s wool"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~A4961/A4961.jsp",
+          "text": "Flare skirt in stripe Super 120s wool"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~B1919/B1919.jsp",
+          "text": "Patch pocket skirt in stretch wool"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~95905/95905.jsp",
+          "text": "Pencil skirt in Italian stretch wool"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~86013/86013.jsp",
+          "text": "Pencil skirt in Super 120s wool"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~90795/90795.jsp",
+          "text": "Pencil skirt in pinstripe Super 120s"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/skirts/suitingskirts/PRDOVR~44461/44461.jsp",
+          "text": "Telegraph pencil skirt in Super 120s wool"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

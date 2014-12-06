@@ -1,0 +1,1463 @@
+{
+  "name": "JCrew Women All Sweaters",
+  "count": 181,
+  "frequency": "On demand",
+  "version": 1,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 17:45:51 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 17:45:42 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_sweaters": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6522/B6522.jsp",
+          "text": "Colorblock sweater tunic"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7786/B7786.jsp",
+          "text": "Tilly sweater"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6431/B6431.jsp",
+          "text": "Dolman sweater with rib trim"
+        },
+        "price": "95.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7425/B7425.jsp",
+          "text": "Stretch merino wool sweater in stripe"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7518/B7518.jsp",
+          "text": "Stretch ribbed merino wool sweater"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6510/B6510.jsp",
+          "text": "Colorblock lace panel sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B1736/B1736.jsp",
+          "text": "Lambswool sweater in houndstooth"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6163/B6163.jsp",
+          "text": "Abstract Fair Isle sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6193/B6193.jsp",
+          "text": "Mixed pattern sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5285/B5285.jsp",
+          "text": "Hugo Guinness™ for J.Crew Bliss sweater"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6435/B6435.jsp",
+          "text": "Sequin-cuff sweater"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3713/B3713.jsp",
+          "text": "Fringe-sleeve sweater"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5289/B5289.jsp",
+          "text": "Wool side-zip cable sweater"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6508/B6508.jsp",
+          "text": "Texture-stitch sweater"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3121/B3121.jsp",
+          "text": "Demylee™ handknit sweater"
+        },
+        "price": "793.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7364/B7364.jsp",
+          "text": "Collection cashmere sparkle sweater"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~36811/36811.jsp",
+          "text": "Collection cashmere waffle henley"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7067/B7067.jsp",
+          "text": "Collection cashmere zip-back tunic"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7419/B7419.jsp",
+          "text": "Heathered merino wool turtleneck"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6162/B6162.jsp",
+          "text": "Flecked Italian wool turtleneck"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7443/B7443.jsp",
+          "text": "Rib-stitch turtleneck"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3113/B3113.jsp",
+          "text": "Demylee™ Lawrence sweater"
+        },
+        "price": "526.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5226/B5226.jsp",
+          "text": "Brushed mohair sweater"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7263/B7263.jsp",
+          "text": "Pinstripe side-slit sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2227/B2227.jsp",
+          "text": "Collection dip-dye sweater"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6242/B6242.jsp",
+          "text": "Collection striped shearling sweater"
+        },
+        "price": "698.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2216/B2216.jsp",
+          "text": "Collection abstract mohair sweater"
+        },
+        "price": "368.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2219/B2219.jsp",
+          "text": "Collection fringe sweater"
+        },
+        "price": "498.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6192/B6192.jsp",
+          "text": "High-low crewneck sweater"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5227/B5227.jsp",
+          "text": "Wool bouclé sweater"
+        },
+        "price": "95.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5916/B5916.jsp",
+          "text": "Wool pointelle cable sweater"
+        },
+        "price": "95.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5875/B5875.jsp",
+          "text": "Chunky turtleneck sweater"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5920/B5920.jsp",
+          "text": "Roll-sleeve sweater"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7365/B7365.jsp",
+          "text": "Collection cashmere oversized ribbed sweater"
+        },
+        "price": "348.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3280/B3280.jsp",
+          "text": "Merino wool asymmetrical zip sweater in colorblock"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2546/B2546.jsp",
+          "text": "Brushed mohair boyfriend sweatshirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6521/B6521.jsp",
+          "text": "Mixed-stitch blanket sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2801/B2801.jsp",
+          "text": "Cambridge cable crewneck sweater"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B5281/B5281.jsp",
+          "text": "Cambridge cable chunky turtleneck sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B1726/B1726.jsp",
+          "text": "Merino wool pocket tunic"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6386/B6386.jsp",
+          "text": "Collection cashmere double-stitch sweater"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2795/B2795.jsp",
+          "text": "Cambridge cable turtleneck sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2802/B2802.jsp",
+          "text": "Cambridge cable V-neck sweater"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6528/B6528.jsp",
+          "text": "Pre-order Collection cashmere cable sweater"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~46164/46164.jsp",
+          "text": "Merino wool V-neck sweater"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6529/B6529.jsp",
+          "text": "Collection cashmere back-zip turtleneck"
+        },
+        "price": "278.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~46725/46725.jsp",
+          "text": "Merino wool Tippi sweater"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7503/B7503.jsp",
+          "text": "Collection cashmere chunky turtleneck"
+        },
+        "price": "278.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3714/B3714.jsp",
+          "text": "Merino double-zip baseball sweater in stripe"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7422/B7422.jsp",
+          "text": "Collection cashmere graphic Fair Isle sweater"
+        },
+        "price": "498.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~99166/99166.jsp",
+          "text": "Collection cashmere turtleneck sweater"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~29627/29627.jsp",
+          "text": "Collection cashmere popover hoodie"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~A4514/A4514.jsp",
+          "text": "Collection cashmere boyfriend sweater"
+        },
+        "price": "225.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~28762/28762.jsp",
+          "text": "Collection cashmere tee"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~A5304/A5304.jsp",
+          "text": "Collection cashmere patch-pocket hoodie"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~53268/53268.jsp",
+          "text": "Collection cashmere long-sleeve tee"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~29660/29660.jsp",
+          "text": "Collection cashmere V-neck sweater"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~47920/47920.jsp",
+          "text": "Collection cashmere boyfriend V-neck sweater"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3115/B3115.jsp",
+          "text": "Demylee™ Skylar sweater"
+        },
+        "price": "365.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~35770/35770.jsp",
+          "text": "Collection cashmere sweatshirt"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~34051/34051.jsp",
+          "text": "Collection cashmere getaway hoodie"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~A1526/A1526.jsp",
+          "text": "Collection cashmere textured-frame sweater"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3114/B3114.jsp",
+          "text": "Demylee™ Lizzie polo"
+        },
+        "price": "379.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3123/B3123.jsp",
+          "text": "Demylee™ Alex stripe sweater"
+        },
+        "price": "326.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6330/B6330.jsp",
+          "text": "Collection cashmere dolman sweater"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2218/B2218.jsp",
+          "text": "Collection bonded merino wool sweater"
+        },
+        "price": "328.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~09586/09586.jsp",
+          "text": "Collection cashmere long-sleeve tee in thin stripe"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~19243/19243.jsp",
+          "text": "Collection cashmere shell"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~29349/29349.jsp",
+          "text": "Jackie shell"
+        },
+        "price": "48.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B1909/B1909.jsp",
+          "text": "Collection cashmere sweater in colorblock"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B1710/B1710.jsp",
+          "text": "Collection bonded merino wool zip sweater"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2410/B2410.jsp",
+          "text": "Collection cashmere side-slit sweater"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2411/B2411.jsp",
+          "text": "Collection cashmere side-slit sweater in colorblock"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~08420/08420.jsp",
+          "text": "Collection cashmere tunic"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2399/B2399.jsp",
+          "text": "Collection colorblock calf hair sweatshirt"
+        },
+        "price": "698.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~A1335/A1335.jsp",
+          "text": "Collection cashmere cropped sweater"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B3154/B3154.jsp",
+          "text": "Apiece Apart™ Uta side-seam turtleneck"
+        },
+        "price": "415.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2551/B2551.jsp",
+          "text": "Apiece Apart™ Katz stripe poncho"
+        },
+        "price": "420.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~05301/05301.jsp",
+          "text": "PLAY Comme des Garçons® V-neck sweater"
+        },
+        "price": "390.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2550/B2550.jsp",
+          "text": "Apiece Apart™ sol stripe tech sweater"
+        },
+        "price": "315.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~18040/18040.jsp",
+          "text": "PLAY Comme des Garçons® stripe sweater"
+        },
+        "price": "390.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2392/B2392.jsp",
+          "text": "Saint James® for J.Crew Nauplie sweater"
+        },
+        "price": "299.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2874/B2874.jsp",
+          "text": "Nili Lotan® raglan cable-sleeve sweater"
+        },
+        "price": "420.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2886/B2886.jsp",
+          "text": "Nili Lotan® oversize mockneck sweater"
+        },
+        "price": "470.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B2875/B2875.jsp",
+          "text": "Nili Lotan® raglan nordic sweater"
+        },
+        "price": "465.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B1640/B1640.jsp",
+          "text": "Collection cashmere V-neck pocket sweater"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~51663/51663.jsp",
+          "text": "Merino wool turtleneck sweater"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B6502/B6502.jsp",
+          "text": "Diamond Fair Isle sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Pullover/PRDOVR~B7925/B7925.jsp",
+          "text": "Collection cashmere sparkle long-sleeve tee"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B7021/B7021.jsp",
+          "text": "Merino wool belted cardigan"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B7785/B7785.jsp",
+          "text": "Merino wool sparkle belted cardigan"
+        },
+        "price": "95.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B6185/B6185.jsp",
+          "text": "Marled mohair cardigan"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B6509/B6509.jsp",
+          "text": "Open shawl-collar cardigan"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~49290/49290.jsp",
+          "text": "Collection cashmere boyfriend cardigan"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B2228/B2228.jsp",
+          "text": "Long-stripe cardigan"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B6506/B6506.jsp",
+          "text": "Ribbed cardigan"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B5273/B5273.jsp",
+          "text": "Cambridge cable cardigan"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~29350/29350.jsp",
+          "text": "Jackie cardigan"
+        },
+        "price": "65.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B1639/B1639.jsp",
+          "text": "Collection cashmere V-neck cardigan"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~09160/09160.jsp",
+          "text": "V-neck cardigan"
+        },
+        "price": "98.00",
+        "sale_price": "88.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~18871/18871.jsp",
+          "text": "Collection cashmere cardigan"
+        },
+        "price": "188.00",
+        "sale_price": "139.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~05067/05067.jsp",
+          "text": "Collection shearling cardigan"
+        },
+        "price": "598.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~18285/18285.jsp",
+          "text": "Collection cashmere zip-front hoodie"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B5873/B5873.jsp",
+          "text": "Collection bonded wool sweater-jacket"
+        },
+        "price": "448.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B7421/B7421.jsp",
+          "text": "Collection cashmere sparkle V-neck cardigan"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B7881/B7881.jsp",
+          "text": "Collection cashmere sparkle cardigan"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~65370/65370.jsp",
+          "text": "Classic merino wool long cardigan"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~91212/91212.jsp",
+          "text": "Merino wool Tippi cardigan"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~A7982/A7982.jsp",
+          "text": "Collection cashmere long open cardigan"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B2394/B2394.jsp",
+          "text": "PLAY Comme des Garçons® wool cardigan"
+        },
+        "price": "415.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B2393/B2393.jsp",
+          "text": "PLAY Comme des Garçons® merino wool cardigan"
+        },
+        "price": "465.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~B2439/B2439.jsp",
+          "text": "PLAY Comme des Garçons® merino wool cardigan in polka dot"
+        },
+        "price": "585.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/cardigans/PRDOVR~A5305/A5305.jsp",
+          "text": "Collection cashmere zip cardigan"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B1736/B1736.jsp",
+          "text": "Lambswool sweater in houndstooth"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B6193/B6193.jsp",
+          "text": "Mixed pattern sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B6163/B6163.jsp",
+          "text": "Abstract Fair Isle sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B6502/B6502.jsp",
+          "text": "Diamond Fair Isle sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B7263/B7263.jsp",
+          "text": "Pinstripe side-slit sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B5285/B5285.jsp",
+          "text": "Hugo Guinness™ for J.Crew Bliss sweater"
+        },
+        "price": "89.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B6242/B6242.jsp",
+          "text": "Collection striped shearling sweater"
+        },
+        "price": "698.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B6521/B6521.jsp",
+          "text": "Mixed-stitch blanket sweater"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B3280/B3280.jsp",
+          "text": "Merino wool asymmetrical zip sweater in colorblock"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B3714/B3714.jsp",
+          "text": "Merino double-zip baseball sweater in stripe"
+        },
+        "price": "110.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B2227/B2227.jsp",
+          "text": "Collection dip-dye sweater"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~18040/18040.jsp",
+          "text": "PLAY Comme des Garçons® stripe sweater"
+        },
+        "price": "390.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B2216/B2216.jsp",
+          "text": "Collection abstract mohair sweater"
+        },
+        "price": "368.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B1909/B1909.jsp",
+          "text": "Collection cashmere sweater in colorblock"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B2399/B2399.jsp",
+          "text": "Collection colorblock calf hair sweatshirt"
+        },
+        "price": "698.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~09586/09586.jsp",
+          "text": "Collection cashmere long-sleeve tee in thin stripe"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B3115/B3115.jsp",
+          "text": "Demylee™ Skylar sweater"
+        },
+        "price": "365.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B3123/B3123.jsp",
+          "text": "Demylee™ Alex stripe sweater"
+        },
+        "price": "326.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B2550/B2550.jsp",
+          "text": "Apiece Apart™ sol stripe tech sweater"
+        },
+        "price": "315.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B2551/B2551.jsp",
+          "text": "Apiece Apart™ Katz stripe poncho"
+        },
+        "price": "420.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/Patterned/PRDOVR~B2392/B2392.jsp",
+          "text": "Saint James® for J.Crew Nauplie sweater"
+        },
+        "price": "299.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7925/B7925.jsp",
+          "text": "Collection cashmere sparkle long-sleeve tee"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7364/B7364.jsp",
+          "text": "Collection cashmere sparkle sweater"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B6386/B6386.jsp",
+          "text": "Collection cashmere double-stitch sweater"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B6330/B6330.jsp",
+          "text": "Collection cashmere dolman sweater"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7365/B7365.jsp",
+          "text": "Collection cashmere oversized ribbed sweater"
+        },
+        "price": "348.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B6528/B6528.jsp",
+          "text": "Pre-order Collection cashmere cable sweater"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7422/B7422.jsp",
+          "text": "Collection cashmere graphic Fair Isle sweater"
+        },
+        "price": "498.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7421/B7421.jsp",
+          "text": "Collection cashmere sparkle V-neck cardigan"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7881/B7881.jsp",
+          "text": "Collection cashmere sparkle cardigan"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B2410/B2410.jsp",
+          "text": "Collection cashmere side-slit sweater"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B2411/B2411.jsp",
+          "text": "Collection cashmere side-slit sweater in colorblock"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~08420/08420.jsp",
+          "text": "Collection cashmere tunic"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~53268/53268.jsp",
+          "text": "Collection cashmere long-sleeve tee"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~35770/35770.jsp",
+          "text": "Collection cashmere sweatshirt"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~A4514/A4514.jsp",
+          "text": "Collection cashmere boyfriend sweater"
+        },
+        "price": "225.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~47920/47920.jsp",
+          "text": "Collection cashmere boyfriend V-neck sweater"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~29660/29660.jsp",
+          "text": "Collection cashmere V-neck sweater"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B1640/B1640.jsp",
+          "text": "Collection cashmere V-neck pocket sweater"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B7503/B7503.jsp",
+          "text": "Collection cashmere chunky turtleneck"
+        },
+        "price": "278.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~99166/99166.jsp",
+          "text": "Collection cashmere turtleneck sweater"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B6529/B6529.jsp",
+          "text": "Collection cashmere back-zip turtleneck"
+        },
+        "price": "278.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~36811/36811.jsp",
+          "text": "Collection cashmere waffle henley"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B1639/B1639.jsp",
+          "text": "Collection cashmere V-neck cardigan"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~49290/49290.jsp",
+          "text": "Collection cashmere boyfriend cardigan"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~A7982/A7982.jsp",
+          "text": "Collection cashmere long open cardigan"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~A5304/A5304.jsp",
+          "text": "Collection cashmere patch-pocket hoodie"
+        },
+        "price": "288.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~34051/34051.jsp",
+          "text": "Collection cashmere getaway hoodie"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~18285/18285.jsp",
+          "text": "Collection cashmere zip-front hoodie"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~09586/09586.jsp",
+          "text": "Collection cashmere long-sleeve tee in thin stripe"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~A1526/A1526.jsp",
+          "text": "Collection cashmere textured-frame sweater"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~18871/18871.jsp",
+          "text": "Collection cashmere cardigan"
+        },
+        "price": "188.00",
+        "sale_price": "139.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~19243/19243.jsp",
+          "text": "Collection cashmere shell"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~29627/29627.jsp",
+          "text": "Collection cashmere popover hoodie"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~A5305/A5305.jsp",
+          "text": "Collection cashmere zip cardigan"
+        },
+        "price": "238.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~A1335/A1335.jsp",
+          "text": "Collection cashmere cropped sweater"
+        },
+        "price": "188.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~28762/28762.jsp",
+          "text": "Collection cashmere tee"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B1909/B1909.jsp",
+          "text": "Collection cashmere sweater in colorblock"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B3121/B3121.jsp",
+          "text": "Demylee™ handknit sweater"
+        },
+        "price": "793.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B3114/B3114.jsp",
+          "text": "Demylee™ Lizzie polo"
+        },
+        "price": "379.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B3113/B3113.jsp",
+          "text": "Demylee™ Lawrence sweater"
+        },
+        "price": "526.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B3115/B3115.jsp",
+          "text": "Demylee™ Skylar sweater"
+        },
+        "price": "365.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~47958/47958.jsp",
+          "text": "Collection cashmere waffle leggings"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~08157/08157.jsp",
+          "text": "Collection cashmere sweatpant"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~B3124/B3124.jsp",
+          "text": "Demylee™ sweatpant"
+        },
+        "price": "326.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~39240/39240.jsp",
+          "text": "The Laundress New York® for J.Crew fabric spray"
+        },
+        "price": "10.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~13845/13845.jsp",
+          "text": "The Laundress New York® for J.Crew cashmere wash"
+        },
+        "price": "18.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/sweaters/jcrewcashmere/PRDOVR~39237/39237.jsp",
+          "text": "The Laundress New York® for J.Crew sweater comb"
+        },
+        "price": "18.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

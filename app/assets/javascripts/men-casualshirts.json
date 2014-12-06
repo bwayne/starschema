@@ -1,0 +1,2319 @@
+{
+  "name": "J Crew Men All CasualShirts",
+  "count": 288,
+  "frequency": "On demand",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 20:31:24 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 20:31:18 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "men_all_casualshirts": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/heatherelbowpatch/PRDOVR~B4354/B4354.jsp",
+          "text": "Chamois elbow-patch shirt in heather plaster plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/heatherelbowpatch/PRDOVR~B4355/B4355.jsp",
+          "text": "Chamois elbow-patch shirt in heather stormy sea plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/heatherelbowpatch/PRDOVR~B4367/B4367.jsp",
+          "text": "Chamois elbow-patch shirt in heather sea plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/heatherelbowpatch/PRDOVR~B4505/B4505.jsp",
+          "text": "Chamois elbow-patch shirt in heather granite plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/heatherelbowpatch/PRDOVR~06791/06791.jsp",
+          "text": "Heathered chamois elbow-patch shirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4271/B4271.jsp",
+          "text": "Brushed twill shirt in explorer blue"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4295/B4295.jsp",
+          "text": "Brushed twill shirt in explorer blue plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4272/B4272.jsp",
+          "text": "Brushed twill shirt in tonal gingham"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~A0416/A0416.jsp",
+          "text": "Brushed twill popover in heather sky herringbone"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4402/B4402.jsp",
+          "text": "Slim soft heather twill shirt in patchwork"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4407/B4407.jsp",
+          "text": "Slim brushed twill shirt in paste white plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4292/B4292.jsp",
+          "text": "Slim soft heather twill shirt in glen plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4306/B4306.jsp",
+          "text": "Slim soft heather twill shirt in pinstripe"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~B4273/B4273.jsp",
+          "text": "Slim brushed twill shirt in blue dots"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~A9547/A9547.jsp",
+          "text": "Slim soft heather twill shirt in glen plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~06907/06907.jsp?color_name=hthr-heritage-blue",
+          "text": "Brushed twill shirt"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/softheathertwill/PRDOVR~06907/06907.jsp?color_name=hthr-deep-charcoal",
+          "text": "Brushed twill shirt"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B4336/B4336.jsp",
+          "text": "Quilted twill workshirt"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9738/A9738.jsp",
+          "text": "Herringbone flannel shirt in navy gingham"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B5010/B5010.jsp",
+          "text": "Brushed flannel popover in black herringbone"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B5839/B5839.jsp",
+          "text": "Herringbone flannelpopover in classic navy plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9611/A9611.jsp",
+          "text": "Flannel popover in navy plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9618/A9618.jsp",
+          "text": "Herringbone flannel shirt in union green plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B2370/B2370.jsp?color_name=milan-red",
+          "text": "Wallace & Barnes cotton flannel shirt in buffalo check"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B2370/B2370.jsp?color_name=classic-pine",
+          "text": "Wallace & Barnes cotton flannel shirt in buffalo check"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B4301/B4301.jsp",
+          "text": "Herringbone flannel shirt in black plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9541/A9541.jsp",
+          "text": "Herringbone flannel shirt in caravan blue plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9407/A9407.jsp",
+          "text": "Herringbone flannel shirt in river valley plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9536/A9536.jsp",
+          "text": "Herringbone flannel shirt in classic plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9637/A9637.jsp",
+          "text": "Flannel popover in Adriatic Sea plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9395/A9395.jsp",
+          "text": "Wallace & Barnes indigo welding shirt"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~03328/03328.jsp",
+          "text": "Wallace & Barnes hunting overshirt"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~03067/03067.jsp",
+          "text": "Wallace & Barnes CPO jacket"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~06871/06871.jsp",
+          "text": "Wallace & Barnes plaid CPO shirt-jacket"
+        },
+        "price": "178.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~32787/32787.jsp",
+          "text": "Wallace & Barnes buffalo check CPO shirt-jacket"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9408/A9408.jsp",
+          "text": "Wallace & Barnes denim workshirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B3331/B3331.jsp",
+          "text": "Wallace & Barnes wool overshirt"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B0997/B0997.jsp",
+          "text": "Quilted chambray shirt-jacket"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B4448/B4448.jsp",
+          "text": "Wallace & Barnes flannel shirt in smoky haze plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B4385/B4385.jsp",
+          "text": "Herringbone flannel shirt in black watch plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B4423/B4423.jsp",
+          "text": "Herringbone flannel shirt in lighthouse red plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9092/A9092.jsp?color_name=faded-bluegrass",
+          "text": "Field shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9092/A9092.jsp?color_name=classic-navy",
+          "text": "Field shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9092/A9092.jsp?color_name=cool-charcoal",
+          "text": "Field shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~B4955/B4955.jsp",
+          "text": "Fine-wale corduroy shirt"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A0886/A0886.jsp",
+          "text": "Japanese chambray popover"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~14336/14336.jsp",
+          "text": "Grey chambray utility shirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~06385/06385.jsp",
+          "text": "Indigo Japanese chambray shirt"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A5426/A5426.jsp",
+          "text": "Slim Japanese chambray shirt in sunwashed red"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~84018/84018.jsp",
+          "text": "Selvedge Japanese chambray utility shirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~62202/62202.jsp",
+          "text": "Selvedge indigo denim shirt"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9638/A9638.jsp",
+          "text": "Denim shirt in engineer stripe"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/workshirts/PRDOVR~A9393/A9393.jsp",
+          "text": "Slim cotton shirt in overdyed charcoal"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~B4336/B4336.jsp",
+          "text": "Quilted twill workshirt"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~B3331/B3331.jsp",
+          "text": "Wallace & Barnes wool overshirt"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~32787/32787.jsp",
+          "text": "Wallace & Barnes buffalo check CPO shirt-jacket"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~B4369/B4369.jsp",
+          "text": "Wallace & Barnes overshirt in windowpane English wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~03067/03067.jsp",
+          "text": "Wallace & Barnes CPO jacket"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~03328/03328.jsp",
+          "text": "Wallace & Barnes hunting overshirt"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~06871/06871.jsp",
+          "text": "Wallace & Barnes plaid CPO shirt-jacket"
+        },
+        "price": "178.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/ShirtJackets/PRDOVR~B0997/B0997.jsp",
+          "text": "Quilted chambray shirt-jacket"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B5512/B5512.jsp",
+          "text": "Secret Wash shirt in heather blue gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9462/A9462.jsp",
+          "text": "Secret Wash shirt in faded barn foulard"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4279/B4279.jsp",
+          "text": "Secret Wash shirt in heather red plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B6042/B6042.jsp",
+          "text": "Secret Wash shirt in heather midnight plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4281/B4281.jsp",
+          "text": "Slim Secret Wash white-collar shirt in midnight tartan"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4280/B4280.jsp",
+          "text": "Secret Wash shirt in heather black gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B5528/B5528.jsp",
+          "text": "Secret Wash shirt in heather flame gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9378/A9378.jsp",
+          "text": "Secret Wash shirt in oxbow blue stripe"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9335/A9335.jsp",
+          "text": "Secret Wash shirt in heather grey plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9363/A9363.jsp",
+          "text": "Secret Wash shirt in heather caravan blue plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~58137/58137.jsp",
+          "text": "Secret Wash shirt in classic check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9377/A9377.jsp",
+          "text": "Secret Wash shirt in Atlantic bay tartan"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02370/02370.jsp",
+          "text": "Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02326/02326.jsp",
+          "text": "Secret Wash shirt in burgundy check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9424/A9424.jsp?color_name=faded-black",
+          "text": "Secret Wash shirt in crosshatch print"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4214/B4214.jsp",
+          "text": "Secret Wash shirt in foulard"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4283/B4283.jsp",
+          "text": "Slim Secret Wash shirt in burnished mahogany plaid"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4298/B4298.jsp",
+          "text": "Secret Wash white-collar shirt in banker stripe"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4246/B4246.jsp",
+          "text": "Secret Wash shirt in evergreen foulard"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4243/B4243.jsp",
+          "text": "Slim chambray shirt in diamond print"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4299/B4299.jsp",
+          "text": "Secret Wash shirt in glacier bay houndstooth"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4315/B4315.jsp",
+          "text": "Secret Wash shirt in sage stripe"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4288/B4288.jsp",
+          "text": "Slim Secret Wash white-collar shirt in classic navy gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4285/B4285.jsp",
+          "text": "Slim Secret Wash white-collar shirt in multi blue stripe"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9397/A9397.jsp?color_name=distressed-rose",
+          "text": "Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9397/A9397.jsp?color_name=heritage-blue",
+          "text": "Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9397/A9397.jsp?color_name=oxbow-blue",
+          "text": "Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~B4313/B4313.jsp",
+          "text": "Secret Wash white-collar shirt in end-on-end cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9595/A9595.jsp",
+          "text": "Secret Wash shirt in foulard print"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02306/02306.jsp",
+          "text": "Secret Wash shirt in microgingham"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02402/02402.jsp?color_name=hthr-coal",
+          "text": "Secret Wash heather poplin shirt"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02402/02402.jsp?color_name=hthr-distressed-rose",
+          "text": "Secret Wash heather poplin shirt"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9331/A9331.jsp",
+          "text": "Secret Wash shirt in majestic blue windowpane"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02332/02332.jsp?color_name=turquoise-cove",
+          "text": "Secret Wash shirt in two-color gingham"
+        },
+        "price": "64.50",
+        "sale_price": "49.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~48456/48456.jsp",
+          "text": "Slim Secret Wash shirt in classic check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~78151/78151.jsp",
+          "text": "Secret Wash shirt in end-on-end cotton"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A8882/A8882.jsp",
+          "text": "Secret Wash shirt in heather grey plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A8883/A8883.jsp",
+          "text": "Secret Wash shirt in heather blue plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A9433/A9433.jsp",
+          "text": "Slim Secret Wash shirt in woven dots"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~76597/76597.jsp?color_name=vintage-burgundy",
+          "text": "Secret Wash shirt in bold stripe"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02688/02688.jsp?color_name=dark-navy",
+          "text": "Secret Wash shirt in microdot"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A0342/A0342.jsp",
+          "text": "Secret Wash shirt in cross square print"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~07902/07902.jsp",
+          "text": "Secret Wash shirt in vertical neon azure stripe"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A4902/A4902.jsp",
+          "text": "Secret Wash shirt in woven diamonds"
+        },
+        "price": "79.50",
+        "sale_price": "59.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~19417/19417.jsp?color_name=vintage-navy",
+          "text": "Secret Wash shirt in faded gingham"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~92986/92986.jsp",
+          "text": "Slim Secret Wash shirt in pindot"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A4175/A4175.jsp",
+          "text": "Slim Secret Wash shirt in gingham"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~97894/97894.jsp",
+          "text": "Secret Wash shirt in white"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~68015/68015.jsp",
+          "text": "Secret Wash point-collar shirt in white"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~A1231/A1231.jsp",
+          "text": "Secret Wash shirt in stone blue gingham"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02491/02491.jsp",
+          "text": "Slim Secret Wash shirt in charcoal stripe"
+        },
+        "price": "64.50",
+        "sale_price": "59.50"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~02230/02230.jsp",
+          "text": "Slim Thomas Mason® for J.Crew button-down shirt"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~30687/30687.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~44174/44174.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in pinpoint oxford"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~40851/40851.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in baltic mini-gingham"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~40853/40853.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in peri stripe"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/secretwash/PRDOVR~24248/24248.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in bedford blue gingham"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/jaspeplaid/PRDOVR~A9328/A9328.jsp",
+          "text": "Jaspé cotton shirt in gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/jaspeplaid/PRDOVR~A9325/A9325.jsp",
+          "text": "Slim jaspé cotton shirt in multi plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B4302/B4302.jsp",
+          "text": "Vintage oxford shirt in navy tattersall"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B4498/B4498.jsp",
+          "text": "Vintage oxford shirt in heather plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B5526/B5526.jsp",
+          "text": "Slim vintage oxford shirt with contrast collar"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B5571/B5571.jsp",
+          "text": "Vintage oxford shirt in heather grey stripe"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B5520/B5520.jsp",
+          "text": "Vintage oxford shirt in multi panels"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B4497/B4497.jsp",
+          "text": "Slim vintage oxford shirt in classic navy plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~22023/22023.jsp",
+          "text": "Vintage oxford buffalo check shirt"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A9522/A9522.jsp",
+          "text": "Vintage oxford shirt in heather ash plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A9737/A9737.jsp",
+          "text": "Slim vintage oxford in chili powder check"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A9465/A9465.jsp",
+          "text": "Slim vintage oxford shirt in warm spruce plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A9514/A9514.jsp",
+          "text": "Slim vintage oxford shirt in haven blue plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A9396/A9396.jsp",
+          "text": "Slim vintage oxford shirt in navy plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~03036/03036.jsp",
+          "text": "Slim vintage oxford shirt in classic gingham"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A9492/A9492.jsp",
+          "text": "Vintage oxford shirt in heather pewter check"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~27156/27156.jsp",
+          "text": "Vintage oxford shirt in white"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~60763/60763.jsp",
+          "text": "Vintage oxford shirt"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~93061/93061.jsp",
+          "text": "Vintage oxford shirt in heathered cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~A0899/A0899.jsp",
+          "text": "Vintage oxford popover"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~93060/93060.jsp?color_name=black",
+          "text": "Vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~93060/93060.jsp?color_name=dark-pine",
+          "text": "Vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/oxford/PRDOVR~B5561/B5561.jsp",
+          "text": "Vintage oxford shirt in colorblock"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~32787/32787.jsp",
+          "text": "Wallace & Barnes buffalo check CPO shirt-jacket"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~B4369/B4369.jsp",
+          "text": "Wallace & Barnes overshirt in windowpane English wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~A1338/A1338.jsp",
+          "text": "Wallace & Barnes workshirt in indigo dot"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~03328/03328.jsp",
+          "text": "Wallace & Barnes hunting overshirt"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~B3331/B3331.jsp",
+          "text": "Wallace & Barnes wool overshirt"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~06871/06871.jsp",
+          "text": "Wallace & Barnes plaid CPO shirt-jacket"
+        },
+        "price": "178.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~03067/03067.jsp",
+          "text": "Wallace & Barnes CPO jacket"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~B2370/B2370.jsp?color_name=milan-red",
+          "text": "Wallace & Barnes cotton flannel shirt in buffalo check"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~B2370/B2370.jsp?color_name=classic-pine",
+          "text": "Wallace & Barnes cotton flannel shirt in buffalo check"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~A9395/A9395.jsp",
+          "text": "Wallace & Barnes indigo welding shirt"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~A9413/A9413.jsp",
+          "text": "Wallace & Barnes heavyweight flannel shirt in warm chicory plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~A9408/A9408.jsp",
+          "text": "Wallace & Barnes denim workshirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~B4448/B4448.jsp",
+          "text": "Wallace & Barnes flannel shirt in smoky haze plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~A7620/A7620.jsp",
+          "text": "Wallace & Barnes band-collar shirt in Irish cotton-linen"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/wallaceandbarnes/PRDOVR~A7968/A7968.jsp",
+          "text": "Wallace & Barnes band-collar Japanese selvedge chambray shirt"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/shortsleeve/PRDOVR~A1770/A1770.jsp",
+          "text": "Short-sleeve popover in vintage oxford cloth"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/shortsleeve/PRDOVR~22031/22031.jsp",
+          "text": "Secret Wash short-sleeve shirt in white"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/shortsleeve/PRDOVR~68476/68476.jsp",
+          "text": "Short-sleeve shirt in Japanese indigo chambray"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/shortsleeve/PRDOVR~A1670/A1670.jsp",
+          "text": "Irish linen shirt in thin stripe"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/shortsleeve/PRDOVR~A2292/A2292.jsp",
+          "text": "Irish linen shirt in solid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/shortsleeve/PRDOVR~A2299/A2299.jsp",
+          "text": "Slim délavé Irish linen shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~B6327/B6327.jsp",
+          "text": "Shuttle Notes indigo flannel shirt"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A9392/A9392.jsp",
+          "text": "Slim Thomas Mason® for J.Crew flannel shirt in stone"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A9394/A9394.jsp",
+          "text": "Slim Thomas Mason® for J.Crew flannel shirt in majestic blue"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A9391/A9391.jsp",
+          "text": "Slim Thomas Mason® for J.Crew flannel shirt in coal"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~B0140/B0140.jsp",
+          "text": "Slim Thomas Mason® for J.Crew flannel shirt in classic pine"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~B0139/B0139.jsp",
+          "text": "Thomas Mason®for J.Crew flannel shirt in midnight plaid"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A1869/A1869.jsp",
+          "text": "PLAY Comme des Garçons® white button-down shirt"
+        },
+        "price": "285.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~03647/03647.jsp",
+          "text": "PLAY Comme des Garçons® red heart button-down shirt"
+        },
+        "price": "270.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~B2530/B2530.jsp",
+          "text": "Chimala® vintage western denim shirt"
+        },
+        "price": "380.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~B4476/B4476.jsp",
+          "text": "Thomas Mason®for J.Crew flannel shirt in engine red plaid"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~03215/03215.jsp",
+          "text": "Shuttle Notes® indigo button-down shirt"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~87740/87740.jsp",
+          "text": "Chimala® denim western shirt"
+        },
+        "price": "370.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A7118/A7118.jsp",
+          "text": "United Arrows™ for J.Crew indigo herringbone western shirt"
+        },
+        "price": "270.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A4648/A4648.jsp",
+          "text": "Chimala® chambray workshirt"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A7085/A7085.jsp",
+          "text": "United Arrows™ for J.Crew overdyed indigo shirt in vintage stripe"
+        },
+        "price": "270.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~30687/30687.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~40851/40851.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in baltic mini-gingham"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~40853/40853.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in peri stripe"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~24248/24248.jsp",
+          "text": "Slim Thomas Mason® for J.Crew shirt in bedford blue gingham"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A4658/A4658.jsp",
+          "text": "Slim Albiate 1830 for J.Crew shirt in circle cross"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A3011/A3011.jsp",
+          "text": "Albiate 1830 for J.Crew Ludlow spread-collar shirt in Italian chambray"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/JCrewingoodcompany/PRDOVR~A3013/A3013.jsp",
+          "text": "Albiate 1830 for J.Crew Ludlow spread-collar shirt in indigo Italian cotton"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B5214/B5214.jsp",
+          "text": "Tall chamois elbow-patch shirt in heather plaster plaid"
+        },
+        "price": "103.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4541/B4541.jsp",
+          "text": "Tall chamois elbow-patch shirt in heather granite plaid"
+        },
+        "price": "103.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~07417/07417.jsp",
+          "text": "Tall heathered chamois elbow-patch shirt"
+        },
+        "price": "103.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~06908/06908.jsp",
+          "text": "Tall brushed twill shirt"
+        },
+        "price": "80.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4358/B4358.jsp",
+          "text": "Tall herringbone flannel shirt in black plaid"
+        },
+        "price": "84.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~22173/22173.jsp",
+          "text": "Tall vintage oxford buffalo check shirt"
+        },
+        "price": "80.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4364/B4364.jsp",
+          "text": "Tall brushed twill shirt in explorer blue"
+        },
+        "price": "84.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4382/B4382.jsp",
+          "text": "Tall brushed twill shirt in tonal gingham"
+        },
+        "price": "84.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4500/B4500.jsp",
+          "text": "Tall vintage oxford shirt in heather plaid"
+        },
+        "price": "80.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~67309/67309.jsp",
+          "text": "Tall vintage oxford shirt"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~40772/40772.jsp",
+          "text": "Tall vintage oxford shirt in white"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~A9511/A9511.jsp",
+          "text": "Tall field shirt"
+        },
+        "price": "84.50",
+        "sale_price": "69.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~99859/99859.jsp",
+          "text": "Tall selvedge Japanese chambray utility shirt"
+        },
+        "price": "103.00",
+        "sale_price": "79.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~06386/06386.jsp",
+          "text": "Tall indigo Japanese chambray shirt"
+        },
+        "price": "93.00",
+        "sale_price": "69.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~02508/02508.jsp?color_name=hthr-light-grey",
+          "text": "Tall vintage oxford shirt in heathered cotton"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4513/B4513.jsp",
+          "text": "Tall herringbone flannel shirt in black watch plaid"
+        },
+        "price": "84.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~93811/93811.jsp?color_name=black",
+          "text": "Tall vintage oxford shirt in tonal cotton"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~93811/93811.jsp?color_name=dark-pine",
+          "text": "Tall vintage oxford shirt in tonal cotton"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~22046/22046.jsp",
+          "text": "Tall Secret Wash shirt in small check"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~A9362/A9362.jsp",
+          "text": "Tall Secret Wash shirt in heather grey plaid"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~20218/20218.jsp",
+          "text": "Tall Secret Wash shirt in faded gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4289/B4289.jsp",
+          "text": "Tall Secret Wash shirt in heather black gingham"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4290/B4290.jsp",
+          "text": "Tall Secret Wash shirt in heather red plaid"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~A9365/A9365.jsp",
+          "text": "Tall Secret Wash shirt in heather caravan blue plaid"
+        },
+        "price": "74.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~07904/07904.jsp",
+          "text": "Tall Secret Wash shirt in vertical neon azure stripe"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~11024/11024.jsp",
+          "text": "Tall Secret Wash shirt in white"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~A9400/A9400.jsp",
+          "text": "Tall Secret Wash shirt in tattersall"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~A9376/A9376.jsp",
+          "text": "Tall Secret Wash shirt in tattersall"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~B4359/B4359.jsp",
+          "text": "Tall Secret Wash shirt in foulard"
+        },
+        "price": "84.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~75200/75200.jsp",
+          "text": "Tall Secret Wash point-collar shirt in white"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~02499/02499.jsp?color_name=fairweather-blue",
+          "text": "Tall Ludlow spread-collar shirt in end-on-end cotton"
+        },
+        "price": "93.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~02511/02511.jsp",
+          "text": "Tall Ludlow spread-collar shirt in navy gingham"
+        },
+        "price": "93.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~02510/02510.jsp",
+          "text": "Tall Ludlow spread-collar shirt in solid"
+        },
+        "price": "93.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/tallshirtshop/PRDOVR~07436/07436.jsp",
+          "text": "Tall Ludlow spread-collar shirt in chambray"
+        },
+        "price": "103.00",
+        "sale_price": "79.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4542/B4542.jsp",
+          "text": "Slim chamois elbow-patch shirt in heather granite plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B5213/B5213.jsp",
+          "text": "Slim chamois elbow-patch shirt in heather plaster plaid"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22139/22139.jsp",
+          "text": "Slim brushed twill shirt"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4361/B4361.jsp",
+          "text": "Slim herringbone flannel shirt in black plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4292/B4292.jsp",
+          "text": "Slim soft heather twill shirt in glen plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4497/B4497.jsp",
+          "text": "Slim vintage oxford shirt in classic navy plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4365/B4365.jsp",
+          "text": "Slim brushed twill shirt in explorer blue"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4407/B4407.jsp",
+          "text": "Slim brushed twill shirt in paste white plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4273/B4273.jsp",
+          "text": "Slim brushed twill shirt in blue dots"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22177/22177.jsp",
+          "text": "Slim vintage oxford buffalo check shirt"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4402/B4402.jsp",
+          "text": "Slim soft heather twill shirt in patchwork"
+        },
+        "price": "85.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4306/B4306.jsp",
+          "text": "Slim soft heather twill shirt in pinstripe"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4383/B4383.jsp",
+          "text": "Slim brushed twill shirt in tonal gingham"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4459/B4459.jsp",
+          "text": "Slim vintage oxford shirt in navy tattersall"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4511/B4511.jsp",
+          "text": "Slim vintage oxford shirt in heather plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4362/B4362.jsp",
+          "text": "Slim brushed twill shirt in explorer blue plaid"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B5514/B5514.jsp",
+          "text": "Slim Vintage oxford shirt in colorblock"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9393/A9393.jsp",
+          "text": "Slim cotton shirt in overdyed charcoal"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~03036/03036.jsp",
+          "text": "Slim vintage oxford shirt in classic gingham"
+        },
+        "price": "75.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9399/A9399.jsp?color_name=oxbow-blue",
+          "text": "Slim Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": "59.50"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9399/A9399.jsp?color_name=distressed-rose",
+          "text": "Slim Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": "59.50"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9399/A9399.jsp?color_name=heritage-blue",
+          "text": "Slim Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": "59.50"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~08036/08036.jsp",
+          "text": "Slim heathered chamois elbow-patch shirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~03066/03066.jsp",
+          "text": "Slim indigo Japanese chambray shirt"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~03218/03218.jsp",
+          "text": "Slim midweight denim shirt"
+        },
+        "price": "118.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~43683/43683.jsp",
+          "text": "Slim selvedge Japanese chambray utility shirt"
+        },
+        "price": "98.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~67388/67388.jsp",
+          "text": "Slim vintage oxford shirt"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B5526/B5526.jsp",
+          "text": "Slim vintage oxford shirt with contrast collar"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B5572/B5572.jsp",
+          "text": "SLim vintage oxford shirt in heather grey stripe"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9329/A9329.jsp?color_name=hthr-navy",
+          "text": "Slim jaspé cotton shirt in gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9329/A9329.jsp?color_name=hthr-haven-blue",
+          "text": "Slim jaspé cotton shirt in gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9325/A9325.jsp",
+          "text": "Slim jaspé cotton shirt in multi plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~31187/31187.jsp",
+          "text": "Slim Secret Wash shirt in end-on-end cotton"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9509/A9509.jsp?color_name=faded-bluegrass",
+          "text": "Slim field shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9509/A9509.jsp?color_name=classic-navy",
+          "text": "Slim field shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9509/A9509.jsp?color_name=cool-charcoal",
+          "text": "Slim field shirt"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~36997/36997.jsp?color_name=white",
+          "text": "Slim vintage oxford shirt in white"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~93810/93810.jsp?color_name=fairmont-blue",
+          "text": "Slim vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~93810/93810.jsp?color_name=pony-brown",
+          "text": "Slim vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~93810/93810.jsp?color_name=black",
+          "text": "Slim vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~93810/93810.jsp?color_name=dark-pine",
+          "text": "Slim vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~93810/93810.jsp?color_name=olive-drab",
+          "text": "Slim vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~93810/93810.jsp?color_name=stone-blue",
+          "text": "Slim vintage oxford shirt in tonal cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~35232/35232.jsp?color_name=hthr-light-grey",
+          "text": "Slim vintage oxford shirt in heathered cotton"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4512/B4512.jsp",
+          "text": "Slim herringbone flannel shirt in black watch plaid"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A9364/A9364.jsp",
+          "text": "Slim Secret Wash shirt in heather caravan blue plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4360/B4360.jsp",
+          "text": "Slim Secret Wash shirt in foulard"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4288/B4288.jsp",
+          "text": "Slim Secret Wash white-collar shirt in classic navy gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4410/B4410.jsp",
+          "text": "Slim Secret Wash shirt in evergreen foulard"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~07908/07908.jsp",
+          "text": "Slim Secret Wash shirt in vertical neon azure stripe"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22100/22100.jsp?color_name=faded-twilight",
+          "text": "Slim Secret Wash shirt in microdot"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22100/22100.jsp?color_name=dark-navy",
+          "text": "Slim Secret Wash shirt in microdot"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~31205/31205.jsp",
+          "text": "Slim Secret Wash shirt in faded gingham"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~92986/92986.jsp",
+          "text": "Slim Secret Wash shirt in pindot"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~31206/31206.jsp",
+          "text": "Slim Secret Wash point-collar shirt in white"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B1363/B1363.jsp?color_name=oxbow-blue",
+          "text": "Slim Secret Wash shirt in oxbow blue stripe"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4286/B4286.jsp",
+          "text": "Slim Secret Wash shirt in heather red plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~A7283/A7283.jsp",
+          "text": "Slim Secret Wash shirt in woven diamonds"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4284/B4284.jsp",
+          "text": "Slim Secret Wash shirt in heather black gingham"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~B4297/B4297.jsp",
+          "text": "Slim Secret Wash shirt in heather midnight plaid"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~68720/68720.jsp",
+          "text": "Slim Secret Wash shirt in white"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~02320/02320.jsp",
+          "text": "Slim Secret Wash shirt in burgundy check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~02491/02491.jsp",
+          "text": "Slim Secret Wash shirt in charcoal stripe"
+        },
+        "price": "64.50",
+        "sale_price": "59.50"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~02371/02371.jsp?color_name=serene-burgundy",
+          "text": "Slim Secret Wash shirt in tattersall"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22047/22047.jsp?color_name=explorer-blue",
+          "text": "Slim Secret Wash shirt in small check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22047/22047.jsp?color_name=midnight-sea",
+          "text": "Slim Secret Wash shirt in small check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~22047/22047.jsp?color_name=caravan-blue",
+          "text": "Slim Secret Wash shirt in small check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~48456/48456.jsp",
+          "text": "Slim Secret Wash shirt in classic check"
+        },
+        "price": "64.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~08109/08109.jsp",
+          "text": "Ludlow Traveler dress shirt in vintage check"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/mens_category/shirts/slimshirtshop/PRDOVR~03285/03285.jsp?color_name=oasis-blue",
+          "text": "Ludlow Traveler dress shirt in end-on-end cotton"
+        },
+        "price": "88.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

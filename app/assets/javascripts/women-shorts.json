@@ -1,0 +1,126 @@
+{
+  "name": "J Crew Women All Shorts",
+  "count": 14,
+  "frequency": "On demand",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 20:22:16 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 20:22:09 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_shorts": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/novelty/PRDOVR~B7129/B7129.jsp",
+          "text": "Metallic linen short"
+        },
+        "price": "69.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~A2515/A2515.jsp",
+          "text": "Andie short"
+        },
+        "price": "55.00",
+        "sale_price": "39.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/jcrewcollection/PRDOVR~03906/03906.jsp",
+          "text": "Collection leather short"
+        },
+        "price": "450.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/jcrewcollection/PRDOVR~B1458/B1458.jsp",
+          "text": "Collection glen plaid wool bermuda short"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~61456/61456.jsp",
+          "text": "3\" chino short"
+        },
+        "price": "45.00",
+        "sale_price": "29.00"
+       },{
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~61456/61456.jsp",
+          "text": "4\" chino short"
+        },
+        "price": "45.00",
+        "sale_price": "29.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~61456/61456.jsp",
+          "text": "5\" chino short"
+        },
+        "price": "45.00",
+        "sale_price": "29.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~A8581/A8581.jsp",
+          "text": "Maternity Andie short"
+        },
+        "price": "78.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/denim/PRDOVR~A0813/A0813.jsp",
+          "text": "Denim short in dark von wash"
+        },
+        "price": "79.50",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/jcrewcollection/PRDOVR~A2115/A2115.jsp",
+          "text": "Collection silk shantung bermuda short"
+        },
+        "price": "150.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~61456/61456.jsp",
+          "text": "7\" chino short"
+        },
+        "price": "48.00",
+        "sale_price": "31.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/solid/PRDOVR~61456/61456.jsp",
+          "text": "9\" chino short"
+        },
+        "price": "48.00",
+        "sale_price": "31.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/ingoodcompany/PRDOVR~B2707/B2707.jsp",
+          "text": "Maison Kitsuné® umbrella short"
+        },
+        "price": "600.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/shorts/jcrewcollection/PRDOVR~B3122/B3122.jsp",
+          "text": "Collection floral tweed bermuda short"
+        },
+        "price": "248.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

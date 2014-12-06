@@ -1,0 +1,359 @@
+{
+  "name": "J Crew Women All Dresses",
+  "count": 43,
+  "frequency": "On demand",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 20:15:29 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 20:15:24 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_dresses": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B4804/B4804.jsp",
+          "text": "Double-zip shift dress"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B7289/B7289.jsp",
+          "text": "Belted shirtdress"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B7429/B7429.jsp",
+          "text": "Belted shirtdress in colorblock"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B1715/B1715.jsp",
+          "text": "Leather panel dress"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B0562/B0562.jsp",
+          "text": "Mixed tweed dress"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B1651/B1651.jsp",
+          "text": "Mixed tweed dress in metallic"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B5387/B5387.jsp",
+          "text": "Metallic dot jacquard dress"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/Dresses/PRDOVR~B5942/B5942.jsp",
+          "text": "Blurred ikat dress"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B5943/B5943.jsp",
+          "text": "Collection gilded chevron shift dress"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B7634/B7634.jsp",
+          "text": "Collection lace jumpsuit"
+        },
+        "price": "425.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B3538/B3538.jsp",
+          "text": "Collection chevron stripe silk-pleated dress"
+        },
+        "price": "495.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B6784/B6784.jsp",
+          "text": "Collection Thomas Mason® mixed jumpsuit"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~A0369/A0369.jsp",
+          "text": "Collection beaded shift dress"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B3441/B3441.jsp",
+          "text": "Collection gilded floral jacquard dress"
+        },
+        "price": "450.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B3371/B3371.jsp",
+          "text": "Collection embellished Italian tweed dress"
+        },
+        "price": "995.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B6310/B6310.jsp",
+          "text": "Collection water lily floral dress"
+        },
+        "price": "425.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B5296/B5296.jsp",
+          "text": "Collection chevron stripe silk dress"
+        },
+        "price": "495.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B2256/B2256.jsp",
+          "text": "Collection Dutch floral wrap dress"
+        },
+        "price": "550.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~A5414/A5414.jsp",
+          "text": "Collection jumpsuit"
+        },
+        "price": "225.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B0009/B0009.jsp",
+          "text": "Collection Italian wool jumpsuit"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B2529/B2529.jsp",
+          "text": "Maison Kitsuné® umbrella dress in stretch wool"
+        },
+        "price": "499.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jcrewcollection/PRDOVR~B7604/B7604.jsp",
+          "text": "Collection chevron sequin dress"
+        },
+        "price": "895.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jumpsuits/PRDOVR~A5414/A5414.jsp",
+          "text": "Collection jumpsuit"
+        },
+        "price": "225.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jumpsuits/PRDOVR~B7634/B7634.jsp",
+          "text": "Collection lace jumpsuit"
+        },
+        "price": "425.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jumpsuits/PRDOVR~B6784/B6784.jsp",
+          "text": "Collection Thomas Mason® mixed jumpsuit"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/jumpsuits/PRDOVR~B0009/B0009.jsp",
+          "text": "Collection Italian wool jumpsuit"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B6139/B6139.jsp",
+          "text": "Tuxedo wrap dress in Italian wool crepe"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B6298/B6298.jsp",
+          "text": "Ruffle dress in Italian stretch wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B7289/B7289.jsp",
+          "text": "Belted shirtdress"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B7429/B7429.jsp",
+          "text": "Belted shirtdress in colorblock"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B4804/B4804.jsp",
+          "text": "Double-zip shift dress"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B6128/B6128.jsp",
+          "text": "Structured knit zip dress"
+        },
+        "price": "158.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B4417/B4417.jsp",
+          "text": "Cutout dress in Italian stretch wool"
+        },
+        "price": "198.00",
+        "sale_price": "178.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B4764/B4764.jsp",
+          "text": "Bonded herringbone dress"
+        },
+        "price": "168.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B4422/B4422.jsp",
+          "text": "Pleated dress in Super 120s wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B5536/B5536.jsp",
+          "text": "Dolman dress in double-serge wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~B4431/B4431.jsp",
+          "text": "Zip-shoulder dress in Super 120s wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~25087/25087.jsp",
+          "text": "Origami dress in wool crepe"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~06246/06246.jsp",
+          "text": "Gwen dress"
+        },
+        "price": "198.00",
+        "sale_price": "139.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~A9688/A9688.jsp",
+          "text": "Casey dress in wool crepe"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~A9703/A9703.jsp",
+          "text": "Rory dress in Super 120s wool"
+        },
+        "price": "228.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~A4842/A4842.jsp",
+          "text": "Petal-sleeve dress in Super 120s"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/dresses/weartowork/PRDOVR~A7411/A7411.jsp",
+          "text": "Kelsey dress in Italian stretch wool"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}

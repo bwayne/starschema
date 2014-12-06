@@ -1,0 +1,559 @@
+{
+  "name": "J Crew Women All Outerwear",
+  "count": 68,
+  "frequency": "On demand",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Mon Nov 24 2014 19:52:25 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Nov 24 2014 19:52:20 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "results": {
+    "women_all_outerwear": [
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B4906/B4906.jsp",
+          "text": "Wool melton hooded bib jacket"
+        },
+        "price": "268.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B2770/B2770.jsp",
+          "text": "Stadium-cloth cocoon coat"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B3901/B3901.jsp",
+          "text": "Chateau parka"
+        },
+        "price": "365.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B6474/B6474.jsp",
+          "text": "Wool melton peacoat"
+        },
+        "price": "288.00",
+        "sale_price": "268.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B6976/B6976.jsp",
+          "text": "Buffalo check bomber jacket"
+        },
+        "price": "250.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~49622/49622.jsp",
+          "text": "Double-cloth lady day coat with Thinsulate®"
+        },
+        "price": "378.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B4840/B4840.jsp",
+          "text": "Stadium-cloth standing-collar coat"
+        },
+        "price": "368.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B4839/B4839.jsp",
+          "text": "Wool melton swing coat"
+        },
+        "price": "365.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B6147/B6147.jsp",
+          "text": "Marled bouclé jacket"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~A8909/A8909.jsp",
+          "text": "Double-cloth car coat"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B3900/B3900.jsp",
+          "text": "Stadium-cloth drop-waist coat"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~A8904/A8904.jsp",
+          "text": "Wool melton duffle coat"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~49360/49360.jsp",
+          "text": "Majesty peacoat"
+        },
+        "price": "298.00",
+        "sale_price": "278.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B5348/B5348.jsp",
+          "text": "Double-cloth patch-pocket cocoon coat"
+        },
+        "price": "365.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B5347/B5347.jsp",
+          "text": "Double-cloth tipped patch-pocket cocoon coat"
+        },
+        "price": "375.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B3898/B3898.jsp",
+          "text": "Stadium-cloth topcoat"
+        },
+        "price": "350.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~A8879/A8879.jsp",
+          "text": "Wool melton toggle coat"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B3906/B3906.jsp",
+          "text": "Wool melton topcoat"
+        },
+        "price": "325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B1463/B1463.jsp",
+          "text": "Wool pinstripe topcoat"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/wool/PRDOVR~B0872/B0872.jsp",
+          "text": "Toggle coat in mixed tweed"
+        },
+        "price": "425.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B0255/B0255.jsp",
+          "text": "Excursion quilted vest in buffalo check"
+        },
+        "price": "138.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B1186/B1186.jsp",
+          "text": "Shiny puffer down jacket"
+        },
+        "price": "198.00",
+        "sale_price": "178.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B1160/B1160.jsp",
+          "text": "Shiny puffer down vest"
+        },
+        "price": "138.00",
+        "sale_price": "99.99"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B0109/B0109.jsp",
+          "text": "Excursion quilted down vest"
+        },
+        "price": "120.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B6344/B6344.jsp",
+          "text": "Quilted V-neck vest"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B5123/B5123.jsp",
+          "text": "Long belted down puffer"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B6079/B6079.jsp",
+          "text": "Burbridge parka"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/puffer/PRDOVR~B2382/B2382.jsp",
+          "text": "Nylon hooded bomber jacket"
+        },
+        "price": "258.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/cotton/PRDOVR~B2589/B2589.jsp",
+          "text": "Quilted boyfriend fatigue jacket"
+        },
+        "price": "168.00",
+        "sale_price": "158.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/cotton/PRDOVR~02742/02742.jsp",
+          "text": "Long field jacket"
+        },
+        "price": "198.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/cotton/PRDOVR~19034/19034.jsp",
+          "text": "The downtown field jacket"
+        },
+        "price": "148.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/cotton/PRDOVR~49185/49185.jsp",
+          "text": "Collection icon trench coat"
+        },
+        "price": "298.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/denim/PRDOVR~B1100/B1100.jsp",
+          "text": "Vintage denim jacket in bodrum wash"
+        },
+        "price": "150.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/denim/PRDOVR~A6401/A6401.jsp",
+          "text": "Vintage denim jacket in Melrose wash"
+        },
+        "price": "150.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/denim/PRDOVR~02779/02779.jsp",
+          "text": "Vintage denim jacket in recycled indigo wash"
+        },
+        "price": "128.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/denim/PRDOVR~A0970/A0970.jsp",
+          "text": "Denim vest in patina wash"
+        },
+        "price": "98.00",
+        "sale_price": "88.00"
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~07760/07760.jsp",
+          "text": "Collection tuxedo topcoat"
+        },
+        "price": "398.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B7442/B7442.jsp",
+          "text": "Collection collarless leather jacket"
+        },
+        "price": "595.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B4965/B4965.jsp",
+          "text": "Collection shearling-collar coat"
+        },
+        "price": "595.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B6001/B6001.jsp",
+          "text": "Collection bouclé topcoat"
+        },
+        "price": "450.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B3130/B3130.jsp",
+          "text": "Collection French tweed coat"
+        },
+        "price": "895.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B3870/B3870.jsp",
+          "text": "Collection shearling coat"
+        },
+        "price": "3,200.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B3070/B3070.jsp",
+          "text": "Collection rippled mohair topcoat"
+        },
+        "price": "995.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B5892/B5892.jsp",
+          "text": "Collection reversible shearling vest"
+        },
+        "price": "650.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B6078/B6078.jsp",
+          "text": "Collection shearling bomber jacket"
+        },
+        "price": "795.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B2806/B2806.jsp",
+          "text": "Collection Harris Tweed topcoat"
+        },
+        "price": "498.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B3050/B3050.jsp",
+          "text": "Collection drop-waist collarless coat"
+        },
+        "price": "795.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B1222/B1222.jsp",
+          "text": "Collection herringbone coat with beaded collar"
+        },
+        "price": "650.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B1189/B1189.jsp",
+          "text": "Collection bonded denim coat"
+        },
+        "price": "795.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B0918/B0918.jsp",
+          "text": "Collection shearling bomber"
+        },
+        "price": "498.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B0936/B0936.jsp",
+          "text": "Collection quilted leather motorcycle jacket"
+        },
+        "price": "1,250.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B1650/B1650.jsp",
+          "text": "Collection double-cloth trench"
+        },
+        "price": "450.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B2380/B2380.jsp",
+          "text": "Collection noir floral bonded coat"
+        },
+        "price": "995.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B2345/B2345.jsp",
+          "text": "Collection cashmere poncho"
+        },
+        "price": "1,500.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~B2386/B2386.jsp",
+          "text": "Collection cashmere topper"
+        },
+        "price": "1,800.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/collection/PRDOVR~48162/48162.jsp",
+          "text": "Collection double-faced cashmere popover"
+        },
+        "price": "1,250.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~17621/17621.jsp",
+          "text": "Woolrich John Rich & Bros.™ Arctic parka"
+        },
+        "price": "675.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B1817/B1817.jsp",
+          "text": "Woolrich John Rich & Bros.™ techno wool eskimo parka"
+        },
+        "price": "965.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B1955/B1955.jsp",
+          "text": "Woolrich John Rich & Bros.™ for J.Crew Arctic parka"
+        },
+        "price": "895.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B2989/B2989.jsp",
+          "text": "Authier® new fit jacket"
+        },
+        "price": "1,325.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B2990/B2990.jsp",
+          "text": "Authier® quilted diamond jacket"
+        },
+        "price": "1,455.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B2987/B2987.jsp",
+          "text": "Authier® fit jacket"
+        },
+        "price": "1,355.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B6812/B6812.jsp",
+          "text": "Golden Bear Sportswear® for J.Crew varsity jacket"
+        },
+        "price": "375.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B2699/B2699.jsp",
+          "text": "Apiece Apart™ Esta long double-breasted coat"
+        },
+        "price": "595.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B0708/B0708.jsp",
+          "text": "Barbour® Batallion jacket"
+        },
+        "price": "499.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B0716/B0716.jsp",
+          "text": "Barbour® Clearaway quilted jacket"
+        },
+        "price": "329.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~B0709/B0709.jsp",
+          "text": "Barbour® Convoy jacket"
+        },
+        "price": "449.00",
+        "sale_price": ""
+      },
+      {
+        "item_name": {
+          "href": "https://www.jcrew.com/womens_category/outerwear/ingoodcompany/PRDOVR~49175/49175.jsp",
+          "text": "Barbour® Beadnell jacket"
+        },
+        "price": "379.00",
+        "sale_price": ""
+      }
+    ]
+  }
+}
