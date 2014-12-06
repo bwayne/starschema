@@ -9,10 +9,8 @@ class LifecyclesController < ApplicationController
 	  @products = Product.all
 	  @product_categories = ProductCategory.all
 	  
-	  counts = Product.all.sort_by
 	  
-# 	  @cat_order_counts = @products.sort_by(&:order_count).reverse.to_a
-# 	  puts @cat_order_counts
+ 	  @product_order_counts = @products.sort_by(&:order_count).reverse.to_a
   end
 
 end

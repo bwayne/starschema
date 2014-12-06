@@ -5,4 +5,10 @@ class Product < ActiveRecord::Base
 	has_many :product_variations
 	has_many :customers, through: :order_items
 	has_many :orders, through: :order_items
+
+	def order_count
+		order_items.count
+	end
+
+
 end
