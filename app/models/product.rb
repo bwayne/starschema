@@ -6,11 +6,5 @@ class Product < ActiveRecord::Base
 	has_many :customers, through: :order_items
 	has_many :orders, through: :order_items
 
-	def order_count
-		order_items.count
-	end
-
-# testing whether gitignore will work
-
 
 end

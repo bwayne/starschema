@@ -11,12 +11,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141202205023) do
+ActiveRecord::Schema.define(version: 20141207195108) do
 
   create_table "brands", force: true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "order_items_count", default: 0, null: false
   end
 
   create_table "customers", force: true do |t|
@@ -63,6 +64,7 @@ ActiveRecord::Schema.define(version: 20141202205023) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "parent_id"
+    t.integer  "order_items_count", default: 0, null: false
   end
 
   create_table "product_variations", force: true do |t|
@@ -70,6 +72,7 @@ ActiveRecord::Schema.define(version: 20141202205023) do
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "order_items_count", default: 0, null: false
   end
 
   create_table "products", force: true do |t|
@@ -80,6 +83,8 @@ ActiveRecord::Schema.define(version: 20141202205023) do
     t.float    "sale_price"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "order_items_count",   default: 0, null: false
+    t.integer  "customer_count",      default: 0, null: false
   end
 
 end
