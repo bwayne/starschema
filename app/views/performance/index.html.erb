@@ -1,0 +1,88 @@
+<html>
+	<head>
+		
+		<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">		
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+		<script src="http://code.highcharts.com/highcharts.js"></script>
+		<script>
+			$(function () {
+				var products = []
+				var product_counts = []
+				<% @products.limit(10).each do |i| -%>
+					products.push("<%= i.name -%>");
+					product_counts.push(<%= i.order_items_count -%>);
+				<% end -%>
+				
+
+				var categories = []
+				var category_counts = []
+				<% @product_categories.limit(10).each do |i| -%>
+					categories.push("<%= i.name -%>");
+					category_counts.push(<%= i.order_items_count -%>);
+				<% end -%>
+				
+				function drawChart(container, title, categories, data) {
+				    $(container).highcharts({
+				        chart: {
+				            type: 'bar',
+				            height: 500
+				        },
+				        title: {
+				            text: title
+				        },
+				        xAxis: {
+				            categories: categories,
+				            title: {
+				                text: null
+				            }
+				        },
+				        yAxis: {
+				            title: {
+				                text: null
+				            },
+				            labels: {
+				                overflow: 'justify'
+				            }
+				        },
+				        tooltip: {
+					        enabled: true,
+				            valueSuffix: ' orders'
+				        },
+				        plotOptions: {
+				            bar: {
+				                dataLabels: {
+				                    enabled: false
+				                }
+				            }
+				        },
+				        legend: {
+					        enabled: false,
+				        },
+				        credits: {
+				            enabled: false
+				        },
+				        series: [{
+				            data: data
+				        }]
+				    });
+				}
+				
+				drawChart(".product_container", "Top 10 Products", products, product_counts);
+				drawChart(".category_container", "Top 10 Categories", categories, category_counts)
+				   
+			});			
+		</script>
+	</head>
+	
+	<body>
+	<div class="container">
+		<h1>Top Performers</h1>
+		<div class="product_container"></div>
+		<div class="category_container"></div>
+	</div>
+	
+
+
+	</body>
+</html>
