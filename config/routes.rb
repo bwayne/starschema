@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
 
+  get 'hexbin/index'
+  resources :hexbin
+
+  get 'performance/index'
+  resources :performance
+
   get 'lifecycles/index'
   resources :lifecycles
   
