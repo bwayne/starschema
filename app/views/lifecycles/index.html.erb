@@ -1,6 +1,40 @@
-<h1>Lifecycle Stage Analysis</h1>
+<html>
+	<head>
+		
+		<script src="http://code.highcharts.com/highcharts.js"></script>
+		<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">		
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+		<script>
+			
+		</script>
+	</head>
+	
+	<body>
+	<div class="container">
+		<h1>Lifecycle Stage Analysis</h1>
+		
+		<h2>Top 10 Products</h2>
+		<div class="product_container">
+		</div>
+		<% @products.limit(10).each do |product| -%>
+			<p><%= product.name %>: <%= product.order_items_count %></p>
+		<% end -%>
+		
+		
+		<h2>Top 10 Product Categories</h2>
+		<div class="category_container">
+		</div>
+		
+		
+		
+		
+		<% @product_categories.limit(10).each do |category| -%>
+			<p><%= category.name %>: <%= category.order_items_count %></p>
+		<% end -%>
+	</div>
+	
 
-	<h2>Category Detail Views</h2>
-	<% @product_order_counts.each do |order| -%>
-		<p><%= order.name %>: <%= order.order_count %></p>
-	<% end -%>
+
+	</body>
+</html>

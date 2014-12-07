@@ -6,11 +6,9 @@ class LifecyclesController < ApplicationController
 	  @customers = Customer.all
 	  @orders = Order.all
 	  @order_items = OrderItem.all
-	  @products = Product.all
-	  @product_categories = ProductCategory.all
+	  @products = Product.all.order("order_items_count DESC")
+	  @product_categories = ProductCategory.all.order("order_items_count DESC")
 	  
-	  
- 	  @product_order_counts = @products.sort_by(&:order_count).reverse.to_a
   end
 
 end
