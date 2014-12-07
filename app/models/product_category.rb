@@ -7,9 +7,4 @@ class ProductCategory < ActiveRecord::Base
 	has_many :product_variations, through: :products
 	has_many :children, class_name: "ProductCategory"
 	belongs_to :parent, class_name: "ProductCategory", foreign_key: "parent_id"
-
-	def self.order_count
-		order_items.count
-	end
-
 end
