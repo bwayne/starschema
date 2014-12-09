@@ -1,0 +1,169 @@
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>	
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/heatmap.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+<script>
+	$(function(){
+        $.ajax({
+           type: 'GET',
+           contentType: 'application/json; charset=utf-8',
+           url: '/heatmap',
+           dataType: 'json',
+           success: function (received_data) {
+//               $('div').html('<h1>Success</h1>');
+				console.log("started the function");
+               draw_heatmap(received_data);
+           },
+           error: function(result) {
+               $('div').html('<h1>you fucked up</h1>');
+           }
+           
+            
+        });
+        function draw_heatmap(rubydata) {
+	        console.log(rubydata);
+		    $('#container').highcharts({
+		
+		        chart: {
+		            type: 'heatmap',
+		            marginTop: 40,
+		            marginBottom: 40
+		        },
+		
+		
+		        title: {
+		            text: 'Sales per employee per weekday'
+		        },
+		
+		        xAxis: {
+		            categories: ['Women',
+								'Men',
+								'Girls',
+								'Boys',
+								'Sweaters',
+								'Knits & Tees',
+								'Shirts & Tops',
+								'Denim',
+								'Pants',
+								'Outerwear',
+								'Blazers',
+								'Dresses',
+								'Skirts',
+								'Shorts',
+								'Suiting',
+								'Weddings & Parties',
+								'Sleepwear',
+								'Swim',
+								'Maternity',
+								'Shoes',
+								'Jewelry',
+								'Fine Jewelry',
+								'Bags',
+								'Accessories',
+								'Home & Gifts',
+								'Eyewear',
+								'Beauty',
+								'Intimates',
+								'Casual Shirts',
+								'Dress Shirts',
+								'Sweaters',
+								'Tees & Polos',
+								'Sweatshirts & Sweatpants',
+								'Pants & Denim',
+								'Shorts & Swim',
+								'Outerwear',
+								'Suiting',
+								'Sportcoats & Vests',
+								'Ties & Pocket Squares',
+								'Shoes',
+								'Accessories',
+								'Bags',
+								'Underwear & Sleepwear',
+								'Dresses',
+								'Knits & Tees',
+								'Collectible Tees',
+								'Shirts',
+								'Sweaters',
+								'Leggings',
+								'Denim',
+								'Pants & Shorts',
+								'Skirts',
+								'Outerwear',
+								'Jackets',
+								'Shoes',
+								'Jewelry & Accessories',
+								'Bags',
+								'Sleepwear',
+								'Swim',
+								'Tees & Polos',
+								'Graphics Shop',
+								'Hoodies & Sweatshirts',
+								'Shirts',
+								'Sweaters',
+								'Pants & Shorts',
+								'Swim & Rash Guards',
+								'Outerwear',
+								'Suiting',
+								'Sportcoats & Vests',
+								'Ties & Bow Ties',
+								'Shoes',
+								'Accessories',
+								'Sleepwear',
+								'Underwear',
+								'Toys & Books']
+		        },
+		
+		        yAxis: {
+		            categories: ["0-1999", "2000-3999", "4000-5999", "6000-7999", "8000-9999", "10000-11999", "12000-13999", "14000-15999", "16000-17999", "18000-19999", "20000-21999", "22000-23999", "24000-25999" ],
+		            title: null
+		        },
+		
+		        colorAxis: {
+		            min: 0,
+		            minColor: '#FFFFFF',
+		            maxColor: Highcharts.getOptions().colors[0]
+		        },
+		
+		        legend: {
+		            align: 'right',
+		            layout: 'vertical',
+		            margin: 0,
+		            verticalAlign: 'top',
+		            y: 25,
+		            symbolHeight: 320
+		        },
+		
+		        tooltip: {
+		            formatter: function () {
+		                return this.point.value + ' ' + this.series.xAxis.categories[this.point.x] + ' in ' + this.series.yAxis.categories[this.point.y];
+		            }
+		        },
+		
+		        series: [{
+		            name: 'Sales per employee',
+		            borderWidth: 1,
+		            data: rubydata,
+		            dataLabels: {
+		                enabled: false,
+		                color: 'black',
+		                style: {
+		                    textShadow: 'none',
+		                    HcTextStroke: null
+		                }
+		            }
+		        }]
+		
+		    });
+		}
+    });
+
+
+</script>
+</head>
+
+<body>
+	<div id="container"></div>
+</body>
+</html>

@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
 
+  get 'heatmap/index'
+  resources :heatmap
+  
   get 'hexbin/index'
   resources :hexbin
 

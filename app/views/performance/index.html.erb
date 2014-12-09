@@ -80,9 +80,18 @@
 		<h1>Top Performers</h1>
 		<div class="product_container"></div>
 		<div class="category_container"></div>
+
+		<div>
+			<% @customers.includes(:order_items, :products).each do |i| -%>
+				<p> <%= i.name -%>: 
+					<% i.order_items.all.each do |order| -%>
+					<%= "#{order.product.name} " -%> 
+					<% end -%>
+			<% end -%>
+		</div>		
+
 	</div>
 	
-
 
 	</body>
 </html>
