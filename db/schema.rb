@@ -11,13 +11,28 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141207195108) do
+ActiveRecord::Schema.define(version: 20141216194041) do
 
   create_table "brands", force: true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "order_items_count", default: 0, null: false
+  end
+
+  create_table "buycycle_lifecycles", force: true do |t|
+    t.integer  "buycycle_stage_id"
+    t.integer  "lifecycle_stage_id"
+    t.integer  "customer_count",     default: 0, null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "buycycle_stages", force: true do |t|
+    t.string   "name"
+    t.integer  "customer_count", default: 0, null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "customers", force: true do |t|
@@ -33,6 +48,14 @@ ActiveRecord::Schema.define(version: 20141207195108) do
     t.float    "revenue"
     t.float    "aov"
     t.float    "ltv"
+    t.integer  "lifecycle_stage_id"
+  end
+
+  create_table "lifecycle_stages", force: true do |t|
+    t.string   "name"
+    t.integer  "customer_count", default: 0, null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "order_items", force: true do |t|
@@ -57,6 +80,7 @@ ActiveRecord::Schema.define(version: 20141207195108) do
     t.float    "order_total"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "lifecycle_stage_id"
   end
 
   create_table "product_categories", force: true do |t|

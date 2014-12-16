@@ -1,3 +1,15 @@
 // Place all the styles related to the Lifecycles controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+/*
+$blue: 		#12A7E0
+$blue-3:                  desaturate(darken($blue, 30), 10)
+$blue-2:                  desaturate(darken($blue, 20), 10)
+$blue-1:                  desaturate(darken($blue, 10), 10)
+$blue1:                   saturate(lighten($blue, 10), 5)
+$blue2:                   saturate(lighten($blue, 20), 5)
+$blue3:                   saturate(lighten($blue, 30), 5)
+*/
+
+#lifecycle_chart::after { width: 100% }

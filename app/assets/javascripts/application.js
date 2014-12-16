@@ -14,3 +14,8 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+
+//= require d3-3.4.13.min.js
+//= require d3.hexbin.v0.min.js
+//= require jquery-2.1.1.min.js
