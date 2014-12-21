@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141216194041) do
+ActiveRecord::Schema.define(version: 20141219204951) do
 
   create_table "brands", force: true do |t|
     t.string   "name"
@@ -49,6 +49,8 @@ ActiveRecord::Schema.define(version: 20141216194041) do
     t.float    "aov"
     t.float    "ltv"
     t.integer  "lifecycle_stage_id"
+    t.integer  "buycycle_stage_id"
+    t.integer  "buycycle_lifecycle_id"
   end
 
   create_table "lifecycle_stages", force: true do |t|
@@ -56,6 +58,8 @@ ActiveRecord::Schema.define(version: 20141216194041) do
     t.integer  "customer_count", default: 0, null: false
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.float    "conv_time"
+    t.float    "conv_rate"
   end
 
   create_table "order_items", force: true do |t|
@@ -81,6 +85,7 @@ ActiveRecord::Schema.define(version: 20141216194041) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "lifecycle_stage_id"
+    t.string   "device_type"
   end
 
   create_table "product_categories", force: true do |t|

@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rubystats', '~> 0.2.3'
 gem 'oj', '~> 2.11.1'
-
+gem 'gon', '~> 5.2.3'
 
 
 

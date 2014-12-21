@@ -1,11 +1,12 @@
 <html>
 	<head>
-		
+		<%= include_gon %>
 		<script src="http://code.highcharts.com/highcharts.js"></script>
+<!--
 		<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>	
+-->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">		
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-		
 		<style>
 			body {background-color: #f6f6f6; font-family: avenir; font-size: 12px;}
 			.hidden { display: none; }
@@ -13,7 +14,8 @@
 			.well { margin-top: 50px; background-color: #fff; line-height: 50px;}
 			.attribute { background-color: #FCAA1A; color: white; padding: 5px 7px 5px 12px; margin-right: 5px; border-radius: 15px; white-space: nowrap; }
 			.attribute-delete{ color: #fff; border: 1px solid #fff; padding: 1px 6px; border-radius: 10px; margin-left: 5px; }
-			.attribute-add { background-color: #fcaa1a; color: #fff; font-size: 10px; border: 1px solid #fcaa1a; padding: 3px 7px; border-radius: 12px; margin-right: 5px; white-space: nowrap; }
+			.attribute-add { background-color: none; color: #fcaa1a; font-size: 10px; border: 1px solid #fcaa1a; padding: 3px 7px; border-radius: 12px; margin-right: 5px; white-space: nowrap; }
+			.attribute-add.only { background-color: #fcaa1a; color: #fff; }
 			.attribute-group { background-color: #FADFB1; padding: 12px 10px; color: #FCAA1A; border-radius: 25px; margin: 10px; }
 			.group-add { font-size: 10px; border: 1px solid #fcaa1a; padding: 5px 10px; border-radius: 25px; color: #fcaa1a; white-space: nowrap}
 			.group-delete{ background: none; border: 1px solid #FCAA1A; color: #FCAA1A; padding: 3px 7px; border-radius: 10px; }
@@ -25,237 +27,46 @@
 			#lifecycle-chart::after { width: 100%; }
 			#lifecycle-chart text { fill: #666; }
 			svg text { font-size: 12px; font-family: helvetica, sans-serif; }
+			#lifecycle-chart { line-height: 0; }
 			#lifecycle-chart .lifecycle-stage-label text { font-weight: lighter !important; font-size: 24px; cursor: pointer; fill: #333; }
 			
 		</style>
-		<script>
-		$(function(){
-			var segmentMatchDropdown = '<li class="segment"><a href="javasscript:void(0)">were in</a></li><li class="segment"><a href="javasscript:void(0)">were not in</a></li>';
-			var actionMatchDropdown = '<li class="action"><a href="javasscript:void(0)">did</a></li><li class="action"><a href="javasscript:void(0)">did not do</a></li>';
-			var attrMatchDropdown = '<li class="attr"><a href="javasscript:void(0)">had</a></li><li class="attr"><a href="javasscript:void(0)">did not have</a></li>';
-			var expressionMatchDropdown = '<li class="expression"><a href="javasscript:void(0)">matched</a><li class="expression"><a href="javasscript:void(0)">did not match</a></li>';
-			var lifecycleMatchDropdown = '<li class="segment"><a href="javasscript:void(0)">were in</a></li><li class="segment"><a href="javasscript:void(0)">were not in</a></li>';
-			var buycycleMatchDropdown = '<li class="segment"><a href="javasscript:void(0)">were in</a></li><li class="segment"><a href="javasscript:void(0)">were not in</a></li>';
-			
-			
-			var segmentDropdown = '<li><a href="javasscript:void(0)">any segment</a></li> 				\
-								<li><a href="javasscript:void(0)">Segment 1</a></li>		\
-								<li><a href="javasscript:void(0)">Segment 2</a></li>		\
-								<li><a href="javasscript:void(0)">Segment 3</a></li>';
-			var actionDropdown = '<li><a href="javasscript:void(0)">any action</a></li><li><a href="javasscript:void(0)">Action 1</a></li><li><a href="javasscript:void(0)">Action 2</a></li><li><a href="javasscript:void(0)">Action 3</a></li>';
-			var attrDropdown = '<li><a href="javasscript:void(0)">any attribute</a></li><li><a href="javasscript:void(0)">Attribute 1</a></li><li><a href="javasscript:void(0)">Attribute 2</a></li><li><a href="javasscript:void(0)">Attribute 3</a></li>';
-			var expressionDropdown = '<li><a href="javasscript:void(0)">any expression</a></li><li><a href="javasscript:void(0)">Expression 1</a></li><li><a href="javasscript:void(0)">Expression 2</a></li><li><a href="javasscript:void(0)">Expression 3</a></li>';
-			var lifecycleDropdown = '<li><a href="javascript:void(0)">any lifecycle stage</a></li><li><a href="javascript:void(0)">No Purchase</a></li><li><a href="javascript:void(0)">One Purchase</a></li><li><a href="javascript:void(0)">Repeat</a></li><li><a href="javascript:void(0)">Loyal</a></li>';
-			var buycycleDropdown = '<li><a href="javascript:void(0)">any buying cycle stage</a></li><li><a href="javascript:void(0)">At Risk</a></li><li><a href="javascript:void(0)">New to Stage</a></li><li><a href="javascript:void(0)">Awareness</a></li><li><a href="javascript:void(0)">Interest</a></li><li><a href="javascript:void(0)">Consider</a></li><li><a href="javascript:void(0)">Intent</a></li>';
-
-			
-			var matchDropdown = segmentMatchDropdown;
-			var dimensionDropdown = segmentDropdown;	
-			var newAttr;
-			function getNewAttr(type, text1) {
-				var newAttrStart = 	'<span class="attribute">																												\
-										<span class="in-not selector dropdown">																								\
-											<span class="dropdown-toggle" type="button" data-toggle="dropdown" id="sentence-match" aria-expanded="true">'+ text1 +'</span>		\
-											<ul class="dropdown-menu match-dropdown segment" role="menu" aria-labelledby="sentence-match">';
-				var newAttrMiddle = 		'</ul>		\
-										</span>																															\
-										<span class="dimension selector dropdown">																							\
-											<span class="dropdown-toggle" type="button" data-toggle="dropdown" id="sentence-match" aria-expanded="true">any '+ type +'</span>	\
-											<ul class="dropdown-menu dimension-dropdown" role="menu" aria-labelledby="sentence-match">'
-				var newAttrEnd =			'</ul>			\
-										</span>				\
-										<span class="attribute-delete">x</span>												\
-									</span>';
-				newAttr = newAttrStart + matchDropdown + newAttrMiddle + dimensionDropdown + newAttrEnd;
-				return newAttr;		
-			}
-			function getNewGroup() {
-				var newGroup = 	'<span class="or">OR</span><span class="attribute-group new">		\
-								' + newAttr + '														\
-								<span class="attribute-add-dropdown dropdown">						\
-									<span class="dropdown-toggle attribute-add" type="button" data-toggle="dropdown" id="" aria-expanded="true">AND</span> \
-									<ul class="dropdown-menu attr-dropdown" role="menu">			\
-										<li class="segment"><a href="javascript:void(0)">Add Segment</a></li>	\
-										<li class="action"><a href="javascript:void(0)">Add Action</a></li>		\
-										<li class="attr"><a href="javascript:void(0)">Add Attribute</a></li>	\
-										<li class="expression"><a href="javascript:void(0)">Add Expression</a></li>	\
-										<li class="lifecycle"><a href="javascript:void(0)">Add Lifecycle Stage</a></li>	\
-										<li class="buycycle"><a href="javascript:void(0)">Add Buying Cycle Stage</a></li>	\
-									</ul>		\
-								</span>';
-				return newGroup;				
-			}
-			function removeCruft() {
-				$(".attribute-group").each(function(){
-					if ($(this).children(".attribute").length == 1) {
-						$(this).find(".attribute-delete").remove();
-						$(this).find(".and").remove();
-					}
-				});	
-				$(".well").find(".attribute-group").each(function(){
-					if ($(".well").find(".attribute-group").length == 1) {
-						$(this).find(".group-delete").remove();
-						$(".well").find(".or").remove();
-					} else {
-						if ($(this).children().hasClass("group-delete") == false) { 
-							$(this).append('<span class="group-delete">x</span>');
-						}
-					}
-				});
-				$(".well").find(".or").each(function(){
-					if ($(this).next().hasClass("or") == true) {
-						console.log("there are two ORs in a row")
-						$(this).next().remove();
-					}
-				});
-				
-			}
-			function populateDropdowns(context) {
-			}
-
-			getNewAttr("segment", "were in");
-			getNewGroup();
-
-						
-			$(".well").find(".match-dropdown").html(matchDropdown);
-			$(".well").find(".dimension-dropdown").html(segmentDropdown);
-
-			$(".well").on("click", ".attribute-add-dropdown .attr-dropdown li", function(){
-				var newClass = $(this).attr("class");
-				if (newClass == "segment") {
-					matchDropdown = segmentMatchDropdown;
-					dimensionDropdown = segmentDropdown;
-					newAttr = getNewAttr("segment", "were in");
-				} else if (newClass == "action"){
-					matchDropdown = actionMatchDropdown;
-					dimensionDropdown = actionDropdown;
-					newAttr = getNewAttr("action", "did");
-				} else if (newClass == "attr") {
-					matchDropdown = attrMatchDropdown;
-					dimensionDropdown = attrDropdown;
-					newAttr = getNewAttr("attribute", "had");
-				} else if (newClass == "expression") {
-					matchDropdown = expressionMatchDropdown;
-					dimensionDropdown = expressionDropdown;
-					newAttr = getNewAttr("expression", "matched");
-				} else if (newClass == "lifecycle") {
-					matchDropdown = lifecycleMatchDropdown;
-					dimensionDropdown = lifecycleDropdown;
-					newAttr = getNewAttr("lifecycle stage", "were in");
-				} else if (newClass == "buycycle") {
-					console.log("newClass = buycycle");
-					matchDropdown = buycycleMatchDropdown;
-					dimensionDropdown = buycycleDropdown;
-					newAttr = getNewAttr("buying cycle stage", "were in");
-				}
-
-				$("<span class='and'>AND</span>" + newAttr).insertBefore($(this).parent().parent());
-				if ($(this).parent().parent().parent().children(".attribute").length == 1) {
-//					console.log($(this).parent().parent().prev());
-					$(this).parent().parent().prev().append('<span class="attribute-delete">x</span>');
-				}
-				if ($(this).parent().prev().text() == "Add a filter"){
-					$(this).parent().prev().text("AND");
-					$(".well").find(".group-add-dropdown").removeClass("hidden");
-				}
-				removeCruft();
-
-			});
-			$(".well").on("click", ".group-add-dropdown .attr-dropdown li", function(){
-				var newClass = $(this).attr("class");
-				if (newClass == "segment") {
-					matchDropdown = segmentMatchDropdown;
-					dimensionDropdown = segmentDropdown;
-					newAttr = getNewAttr("segment", "were in");
-				} else if (newClass == "action"){
-					matchDropdown = actionMatchDropdown;
-					dimensionDropdown = actionDropdown;
-					newAttr = getNewAttr("action", "did");
-				} else if (newClass == "attr") {
-					matchDropdown = attrMatchDropdown;
-					dimensionDropdown = attrDropdown;
-					newAttr = getNewAttr("attribute", "had");
-				} else if (newClass == "expression") {
-					matchDropdown = expressionMatchDropdown;
-					dimensionDropdown = expressionDropdown;
-					newAttr = getNewAttr("expression", "match");
-				} else if (newClass == "lifecycle") {
-					matchDropdown = lifecycleMatchDropdown;
-					dimensionDropdown = lifecycleDropdown;
-					newAttr = getNewAttr("lifecycle stage", "were in");
-				} else if (newClass == "buycycle") {
-					matchDropdown = buycycleMatchDropdown;
-					dimensionDropdown = buycycleDropdown;
-					newAttr = getNewAttr("buying cycle stage", "were in");
-				}
-				newGroup = getNewGroup();
-				parent = $(this).parent().parent();
-				$(newGroup).insertBefore(parent);
-				removeCruft();
-//				$(this).parent().first(".and").addClass("hidden");
-			});
-			$(".well").on("click", ".attribute-delete", function(){
-				$(this).parent().prev().remove();
-				$(this).parent().remove();
-				removeCruft();
-			});
-			$(".well").on("click", ".group-delete", function(){
-				// remove the OR
-				$(this).parent().next().not(".group-add-dropdown").remove();
-//				if ($(this).parent().prev().hasClass("sentence-start") == true) {
-//					$(this).parent().next().remove();					
-//				}
-				$(this).parent().remove();
-				removeCruft();	
-
-			});
-
-			// Make the dropdowns actually change the sentence.
-			$(".well").on("click", ".attribute .dropdown-menu li", function(){
-				var text = $(this).text();
-				$(this).parent().siblings().not(".attribute-add").text(text);
-				if ( $(this).parent().hasClass("match-dropdown") ) {
-					var currentClass = $(this).parent().attr("class");
-					var newClass = $(this).attr("class");
-					var dimUL = $(this).parent().parent().parent().siblings(".dimension");
-					if (newClass !== currentClass) {
-						if (newClass == "segment") {
-							dimUL.html(segmentDropdown);
-						} else if (newClass == "action") {
-							dimUL.html(actionDropdown);
-						} else if (newClass == "attr") {
-							dimUL.html(attrDropdown);
-						} else if (newClass == "expression") {
-							dimUL.html(expressionDropdown);
-						}
-					}
-				}
-			});
-			
-		});
-	</script>
 		
 	</head>
 	
 	<body>
 	<div class="container">
 		<div class="well">
-			<span class="sentence-start">Customers who</span>
-			<span class="attribute-group first-group">
-<!--
-				<span class="attribute first-attribute">
-					<span class="in-not selector dropdown">
-						<span class="dropdown-toggle segment" type="button" data-toggle="dropdown" id="" aria-expanded="true">were in</span>
-						<ul class="dropdown-menu match-dropdown" role="menu" aria-labelledby=""></ul>
-					</span> 
-					<span class="dimension selector dropdown">
-						<span class="dropdown-toggle" type="button" data-toggle="dropdown" id="" aria-expanded="true">any segment</span>
-						<ul class="dropdown-menu dimension-dropdown" role="menu" aria-labelledby=""></ul>
+			<div>
+				<span class="sentence-start">Customers who</span>
+				<span class="attribute-group first-group">
+	<!--
+					<span class="attribute first-attribute">
+						<span class="in-not selector dropdown">
+							<span class="dropdown-toggle segment" type="button" data-toggle="dropdown" id="" aria-expanded="true">were in</span>
+							<ul class="dropdown-menu match-dropdown" role="menu" aria-labelledby=""></ul>
+						</span> 
+						<span class="dimension selector dropdown">
+							<span class="dropdown-toggle" type="button" data-toggle="dropdown" id="" aria-expanded="true">any segment</span>
+							<ul class="dropdown-menu dimension-dropdown" role="menu" aria-labelledby=""></ul>
+						</span>
+					</span>
+	-->
+					<span class="attribute-add-dropdown dropdown">
+						<span class="dropdown-toggle attribute-add only" type="button" data-toggle="dropdown" id="" aria-expanded="true">Add a filter</span>
+						<ul class="dropdown-menu attr-dropdown" role="menu">
+							<li class="segment"><a href="javascript:void(0)">Add Segment</a></li>
+							<li class="action"><a href="javascript:void(0)">Add Action</a></li>
+							<li class="attr"><a href="javascript:void(0)">Add Attribute</a></li>
+							<li class="expression"><a href="javascript:void(0)">Add Expression</a></li>
+							<li class="lifecycle"><a href="javascript:void(0)">Add Lifecycle Stage</a></li>
+							<li class="buycycle"><a href="javascript:void(0)">Add Buying Cycle Stage</a></li>
+						</ul>
 					</span>
 				</span>
--->
-				<span class="attribute-add-dropdown dropdown">
-					<span class="dropdown-toggle attribute-add" type="button" data-toggle="dropdown" id="" aria-expanded="true">Add a filter</span>
+	
+				<span class="group-add-dropdown dropdown hidden">
+					<span class="dropdown-toggle group-add" type="button" data-toggle="dropdown" id="" aria-expanded="true">+ OR</span>
 					<ul class="dropdown-menu attr-dropdown" role="menu">
 						<li class="segment"><a href="javascript:void(0)">Add Segment</a></li>
 						<li class="action"><a href="javascript:void(0)">Add Action</a></li>
@@ -265,22 +76,16 @@
 						<li class="buycycle"><a href="javascript:void(0)">Add Buying Cycle Stage</a></li>
 					</ul>
 				</span>
-			</span>
-
-			<span class="group-add-dropdown dropdown hidden">
-				<span class="dropdown-toggle group-add" type="button" data-toggle="dropdown" id="" aria-expanded="true">OR</span>
-				<ul class="dropdown-menu attr-dropdown" role="menu">
-					<li class="segment"><a href="javascript:void(0)">Add Segment</a></li>
-					<li class="action"><a href="javascript:void(0)">Add Action</a></li>
-					<li class="attr"><a href="javascript:void(0)">Add Attribute</a></li>
-					<li class="expression"><a href="javascript:void(0)">Add Expression</a></li>
-					<li class="lifecycle"><a href="javascript:void(0)">Add Lifecycle Stage</a></li>
-					<li class="buycycle"><a href="javascript:void(0)">Add Buying Cycle Stage</a></li>
-				</ul>
-			</span>
+			</div>
+			<div><a href="javascript:void(0)" class="btn btn-primary">Update</a></div>
 		</div>
 		<div class="well site-content">
 			<div id="lifecycle-chart"></div>
+			<div class="section-label">
+				<h3>Device Types</h3>
+				<div id="device-types" class="dimension"></div>
+			</div>
+<!--
 			<h1>Lifecycle Stage Analysis</h1>
 			
 			<p>No Purchase: <%= "#{@noPurchase}" %></p>
@@ -306,6 +111,7 @@
 			<% @product_categories.limit(10).each do |category| -%>
 				<p><%= category.name %>: <%= category.order_items_count %></p>
 			<% end -%>
+-->
 		</div>
 	</div>
 	
