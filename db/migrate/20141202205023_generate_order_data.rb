@@ -1,5 +1,25 @@
 class GenerateOrderData < ActiveRecord::Migration
-	def change
+	def up
+	  add_column :product_variations, :order_items_count, :integer, default: 0, null: false
+	  add_column :product_categories, :order_items_count, :integer, default: 0, null: false
+	  add_column :brands, :order_items_count, :integer, default: 0, null: false
+	  add_column :products, :order_items_count, :integer, default: 0, null: false
+	  
+	  Product.all.each do |i|
+		  Product.reset_counters(i.id, :order_items)
+	  end
+	  
+	  ProductVariation.all.each do |i|
+		  ProductVariation.reset_counters(i.id, :order_items)
+	  end
+
+	  ProductCategory.all.each do |i|
+		  ProductCategory.reset_counters(i.id, :order_items)
+	  end
+
+	  Brand.all.each do |i|
+		  Brand.reset_counters(i.id, :order_items)
+	  end
 		
 		customers = (Customer.all.count / 1.7).round(0)
 		(1..942).each do |i|
@@ -29,5 +49,12 @@ class GenerateOrderData < ActiveRecord::Migration
 			end
 			
 		end
+	end
+	
+	def down 
+	  remove_column :product_variations, :order_item_count
+	  remove_column :product_categories, :order_item_count
+	  remove_column :brands, :order_item_count
+	  remove_column :products, :order_item_count
 	end
 end
