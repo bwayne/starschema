@@ -6,12 +6,10 @@ class CreateLifecycleStages < ActiveRecord::Migration
       t.timestamps
     end
     
-    remove_column :orders, :lifecycle_stage_id_id
     change_table :orders do |t|
 	    t.belongs_to :lifecycle_stage
 	end
 	
-    remove_column :customers, :lifecycle_stage_id_id
 	change_table :customers do |t|
 		t.belongs_to :lifecycle_stage
 	end

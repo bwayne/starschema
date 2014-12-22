@@ -1,13 +1,6 @@
 class PopulateCycleTables < ActiveRecord::Migration
   def change
-		remove_column :buycycle_lifecycles, :buycycle_stage_id_id
-		remove_column :buycycle_lifecycles, :lifecycle_stage_id_id
-	  	change_table :buycycle_lifecycles do |t|
-		  t.belongs_to :lifecycle_stage
-		  t.belongs_to :buycycle_stage
-		end
-	  
-	  
+
     lifecycleStages = ["At Risk", "Recent Buyers", "Awareness", "Interest", "Considering", "Intent"]
     lifecycleStages.each do |i|
 	    newLife = LifecycleStage.new
