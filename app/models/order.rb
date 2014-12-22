@@ -7,12 +7,12 @@ class Order < ActiveRecord::Base
 	has_many :product_categories, through: :order_items
 	has_many :brands, through: :order_items
 
-	after_create :increment_Lifecycle_counter_cache
+# 	after_create :increment_Lifecycle_counter_cache
 	
 	
-	def increment_Lifecycle_counter_cache
-		LifecycleStage.increment_counter( "customer_count", self.lifecycle_stage.id)
-	end
+# 	def increment_Lifecycle_counter_cache
+# 		LifecycleStage.increment_counter( "customer_count", self.lifecycle_stage.id)
+# 	end
 	
 # 	def decrement_Product_Customer_counter_cache
 # 		Product.decrement_counter( "customer_count", self.product.id)
