@@ -8,18 +8,18 @@ class AddJcrewData < ActiveRecord::Migration
 		jsonfile = File.read(jsonURL)
 		newHash = JSON.parse(jsonfile)
 		allItems = newHash["results"][hash]
-		allItems.each { |i|
-			separated = i.name.rpartition(" in ")
-			products_only[x] = separated[0]
-			variations[x] = separated[2]
-			x += 1
+		allItems.each do |i|
+# 			separated = i.name.rpartition(" in ")
+# 			products_only[x] = separated[0]
+# 			variations[x] = separated[2]
+# 			x += 1
 			newProduct = Product.new
 			newProduct.product_category_id = catNum
 			newProduct.name = i["item_name"]["text"]
 			newProduct.price = i["price"]
 			newProduct.sale_price = i["sale_price"]
 			newProduct.save
-		}
+		end
 	end
 	
 	getData('app/assets/javascripts/women-sweaters.json', 'women_all_sweaters', 5)
