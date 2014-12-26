@@ -26,11 +26,15 @@ class LifecyclesController < ApplicationController
 		LifecycleStage.all.includes(:customers => :orders, :orders => :products).each do |d, i|
 			# convert milliseconds to days
 			t = d.conv_time
-			mm, ss = t.divmod(60)            #=> [4515, 21]
-			hh, mm = mm.divmod(60)           #=> [75, 15]
-			dd, hh = hh.divmod(24)           #=> [3, 3]
-			hours = hh / 24.0
-			days = dd + hours.round(2)
+			if t != nil
+				mm, ss = t.divmod(60)            #=> [4515, 21]
+				hh, mm = mm.divmod(60)           #=> [75, 15]
+				dd, hh = hh.divmod(24)           #=> [3, 3]
+				hours = hh / 24.0
+				days = dd + hours.round(2)
+			else 
+				days = 0
+			end
  			#time_converted = "%d days, %d hours, %d minutes and %d seconds" % [dd, hh, mm, ss]
 			#=> 3 days, 3 hours, 15 minutes and 21 seconds
 			
