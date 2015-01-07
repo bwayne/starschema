@@ -1,0 +1,2 @@
+module StarburstHelper
+end

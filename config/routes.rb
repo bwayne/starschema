@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
 
+  get 'starburst/index'
+  resources :starburst
+
+  get 'customer_discovery/index'
+  resources :customer_discovery
+
   get 'hexbin/index'
   resources :hexbin
 
@@ -9,7 +15,7 @@ Rails.application.routes.draw do
   get 'lifecycles/index'
   resources :lifecycles
   
-  root 'lifecycles#index'
+  root 'customer_discovery#index'
   
 
   # The priority is based upon order of creation: first created -> highest priority.

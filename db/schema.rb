@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141226224735) do
+ActiveRecord::Schema.define(version: 20141229011949) do
 
   create_table "brands", force: true do |t|
     t.string   "name"
@@ -35,6 +35,21 @@ ActiveRecord::Schema.define(version: 20141226224735) do
     t.datetime "updated_at"
   end
 
+  create_table "cities", force: true do |t|
+    t.string   "name",                       null: false
+    t.integer  "state_id"
+    t.integer  "customer_count", default: 0, null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "countries", force: true do |t|
+    t.string   "name",                       null: false
+    t.integer  "customer_count", default: 0, null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "customers", force: true do |t|
     t.string   "name"
     t.string   "email"
@@ -51,6 +66,9 @@ ActiveRecord::Schema.define(version: 20141226224735) do
     t.integer  "lifecycle_stage_id"
     t.integer  "buycycle_stage_id"
     t.integer  "buycycle_lifecycle_id"
+    t.integer  "country_id"
+    t.integer  "state_id"
+    t.integer  "city_id"
   end
 
   create_table "lifecycle_stages", force: true do |t|
@@ -114,6 +132,14 @@ ActiveRecord::Schema.define(version: 20141226224735) do
     t.datetime "updated_at"
     t.integer  "order_items_count",   default: 0, null: false
     t.integer  "customer_count",      default: 0, null: false
+  end
+
+  create_table "states", force: true do |t|
+    t.string   "name",                       null: false
+    t.string   "abbr"
+    t.integer  "customer_count", default: 0, null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
 end

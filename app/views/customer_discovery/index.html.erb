@@ -1,0 +1,42 @@
+<%= include_gon %>
+<%= javascript_include_tag params[:controller] %>
+<%= stylesheet_link_tag params[:controller] %>
+
+<div class="row">
+	<div class="menu col-lg-2">
+		<%= image_tag "menu.png" %>
+	</div>
+	<div class="content col-lg-10">
+		<div class="header">
+			<%= image_tag "customer-discovery-header.png" %>		
+		</div>
+		<div class="main">
+			<div class="content-header">
+				<h1>Set Customer Discovery Goal</h1>
+				<div class="row goal">
+					<div class="col-lg-2">
+						<h3>PRIMARY GOAL</h3>
+					</div>
+					<div class="col-lg-10 setGoal">
+					<span class="goal-add-dropdown dropdown">
+						<span class="dropdown-toggle goal-add" type="button" data-toggle="dropdown" id="" aria-expanded="true">Select a Primary Goal</span>
+						<ul class="dropdown-menu attr-dropdown" role="menu">
+							<li class="bought-product"><a href="javascript:void(0)">Bought a Product</a></li>
+							<li class="viewed-product"><a href="javascript:void(0)">Viewed a Product</a></li>
+							<li class="add-product"><a href="javascript:void(0)">Added a Product to Cart</a></li>
+							<li class="bought-category"><a href="javascript:void(0)">Bought a Category</a></li>
+							<li class="viewed-category"><a href="javascript:void(0)">Viewed a Category</a></li>
+							<li class="add-category"><a href="javascript:void(0)">Searched for a Category</a></li>
+							<li class="lifecycle"><a href="javascript:void(0)">Reached a Lifecycle Stage</a></li>
+							<li class="buycycle"><a href="javascript:void(0)">Reached a Buying Cycle Stage</a></li>
+						</ul>
+					</span>
+					</div>
+				</div>
+			</div>
+			<div class="content-body">
+				<div id="dimension-chart"></div>
+			</div>
+		</div>
+	</div>
+</div>

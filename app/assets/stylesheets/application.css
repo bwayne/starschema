@@ -13,3 +13,43 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+	body {background-color: #f6f6f6; font-family: avenir; font-size: 12px;}
+	.hidden { display: none; }
+	.well { margin-top: 50px; background-color: #fff; line-height: 50px;}
+	.menu { width: 220px; }
+
+	h1, h2, h3, h4, h5, h6 {
+		margin: 10px 0;
+		font-family: "avenir",helvetica,sans-serif,times,sans-serif;
+		font-style: normal;
+/*		font-weight: 700;	*/
+		margin-top: 0;
+		color: #2c3e50;
+		vertical-align: baseline;
+	}
+
+	h1 {
+		font-size: 2em;
+		font-weight: 500;
+		letter-spacing: 1px;
+		line-height: 36px;
+		margin-bottom: 12px;		
+	}
+	
+	h3 { font-size: 1.3em; }
+	
+	.content-header, .content-body { padding: 25px; }
+	
+	.content-header { border-bottom: 1px solid #ccc;}
+	.content-header h1 {
+		padding-left: 0px;
+		font-size: 2em;
+		margin-bottom: 0px;
+		margin-top: 0px;
+		color: #555;		
+	}
+	
+	.content-body { background: #fff; }

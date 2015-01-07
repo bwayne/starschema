@@ -3,6 +3,10 @@ source 'https://rubygems.org'
 gem 'rubystats', '~> 0.2.3'
 gem 'oj', '~> 2.11.1'
 gem 'gon', '~> 5.2.3'
+gem 'highcharts-rails', '~> 4.0.4.1'
+gem 'twitter-bootstrap-rails', '~> 3.2.0'
+gem 'less-rails'
+gem 'therubyracer', '~> 0.12.1'
 
 group :production do
   gem 'pg'

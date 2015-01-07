@@ -3,6 +3,11 @@
 //# You can use CoffeeScript in this file: http://coffeescript.org/
 
 
+/*!
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 
 
 $(function(){
@@ -236,7 +241,6 @@ device_data = jQuery.parseJSON(gon.device_data);
 
 		var newDimension = d3.select(container).append("svg")	
 			.attr("width", function(){
-				console.log(data);
 				return width;
 			})
 				.attr("height", (3 * 30) + margin.top + margin.bottom)
@@ -281,9 +285,7 @@ device_data = jQuery.parseJSON(gon.device_data);
 			.enter()			
 			.append("g")				
 				.attr("class", "dimension-value")				
-				.attr("transform", function(d,i){					
-					return "translate(0,30)"				
-				});						
+				.attr("transform", "translate(0,30)");
 		
 		dimensions.append("rect")
 			.style("fill", function(d,i){				

@@ -1,12 +1,17 @@
 <html>
 	<head>
 		<%= include_gon %>
-		<script src="http://code.highcharts.com/highcharts.js"></script>
+		<%= javascript_include_tag params[:controller] %>
+		<%= stylesheet_link_tag params[:controller] %>
+
 <!--
+		<script src="http://code.highcharts.com/highcharts.js"></script>
 		<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>	
--->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">		
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+		<script src="/app/assets/bootstrap-3.2.0/js/bootstrap.js" type="text/javascript"></script>
+		<link rel="stylesheet" href="/app/assets/bootstrap-3.2.0/css/bootstrap.min.css">
+-->
 		<style>
 			body {background-color: #f6f6f6; font-family: avenir; font-size: 12px;}
 			.hidden { display: none; }

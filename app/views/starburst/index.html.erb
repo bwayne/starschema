@@ -1,0 +1,21 @@
+<%= javascript_include_tag params[:controller] %>
+<%= stylesheet_link_tag params[:controller] %>
+<div class="container">
+	<div class="well">
+		<p>Sentence builder goes here</p>
+	</div>
+	<div class="well" id="content">
+	    <div id="main">
+	      <div id="sequence"></div>
+	      <div id="chart">
+	        <div id="explanation" style="visibility: hidden;">
+	          <span id="percentage"></span><br/>
+	          of visits begin with this sequence of pages
+	        </div>
+	      </div>
+	    </div>
+	    <div id="sidebar">
+	      <div id="legend"></div>
+	    </div>
+	</div>
+</div>
