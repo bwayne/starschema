@@ -4,12 +4,12 @@
 
 $(function(){
 	documentWidth = document.body.clientWidth;
-	$(".content").width(documentWidth - 220)
+	$(".content").width(documentWidth - 220);
 	data = jQuery.parseJSON(gon.goal_affinity);
 	
 	var tip = d3.tip()
 		.attr("class", "d3-tip")
-		.html(function(d){ return d.name + ": " + d.size; });
+		.html(function(d){ return "<strong>"+ d.name + "</strong>: " + d.size + " customers"; });
 	
 	var allSizes = []
 	var allAffins = []
@@ -130,7 +130,6 @@ $(function(){
 		})
 		.attr("class", "dimension-name")
 		.attr("transform", "translate(20,30)")
-		.style("fill", "#999");
 	
 	var circleGroup = row.append("g")
 		.attr("class", "circle-group")
@@ -155,7 +154,7 @@ $(function(){
 				var x = dimXscale(d.affinity);
 				return "translate("+ x +",25)";
 			})
-			.style("fill", "#17A9E0")
+			.style("fill", "#3973ac")
 			.attr("fill-opacity", function(d){
 				return colorScale(d.affinity);
 			})
@@ -178,19 +177,41 @@ $(function(){
 			.attr("transform", function(d,i){
 				return "translate(20,"+ (80 + (height.row * i)) + ")";
 			});
+			
+	var separators = indivRows.append("line")
+		.attr("class", "indivRowSeparator")
+		.attr("x1", 0)
+		.attr("x2", 4000)
+		.attr("y1", 0)
+		.attr("y2", 0)
+		.attr("transform", "translate(0, -30)")
+		.style("stroke", "#ddd")
 
 	var indivRowName = indivRows.append("text")
 		.text(function(d){ return d.name })
-		.attr("fill", "#ccc");			
+		.attr("fill", "#777")
+		.attr("transform", function(d,i){
+			var x = dimXscale(d.affinity);
+			var circleSize = radiusScale(d.size);
+			svgWidth = $("svg").width();
+			distanceRight = svgWidth - (x + circleSize);
+			if ((d.name.length * 10) > distanceRight) {
+				console.log(this.clientWidth);
+				return "translate("+ (x - (this.clientWidth + circleSize + 5)) +")";
+			} else {
+				return "translate("+ (x + circleSize + 5) +")";
+				
+			}
+		});			
 	
 	var indivCircles = indivRows.append("circle")
 		.attr("class", "circle indiv-circle")
 		.attr("r", function(d){ return radiusScale(d.size) })
 		.attr("transform", function(d,i){
 			var x = dimXscale(d.affinity);
-			return "translate("+ x +")";
+			return "translate("+ x +", -5)";
 		})
-		.style("fill", "#17A9E0")
+		.style("fill", "#3973ac")
 		.attr("fill-opacity", function(d){
 			return colorScale(d.affinity);
 		})
@@ -202,86 +223,90 @@ $(function(){
 		.attr("points", "10,18 17,25 10,32")
 		.attr("transform", "translate(0,0)")
 		.style("fill", "#999")
-		.on("click", function(d,i){
-			thisRow = d3.select(this.parentNode);
-			thisGroup = d3.select(this.parentNode.parentNode.parentNode);
-			dimensionRows = d3.selectAll(".dimension-row");
-			dimensionGroups = d3.selectAll(".dimGroupContainer");
-			index = dimensionRows[0].indexOf(thisRow[0][0]);
-			groupIndex = dimensionGroups[0].indexOf(thisGroup[0][0]);
-			var parent = $(this).parent();
-			indivRows = parent.find(".indiv-row");
-			var showSize = indivRows.length;
-			var rowsHeight = showSize * height.row;
-			var idealBox = parent.parent().parent().find(".ideal-box");
-			var idealBoxHeight = parseInt(idealBox.attr("height"));
-			var svgHeight = parseInt($("svg").attr("height"));
-			var rowBackground = parent.find(".rowBG");
-			var rowCircles = parent.find(".row-circle");
-
-			if (parent.attr("class") == "dimension-row open") {
-				$(this).attr("transform", "translate(0,0)"); // rotate the carat
-				parent.attr("class", "dimension-row"); // remove "open" class from parent
-//				$(indivRows).addClass("hidden");
-				indivRows.attr("class", "indiv-row hidden"); // hide the individual rows
-				rowCircles.attr("class", "circle row-circle") // remove "hidden" class from row-circles
-				parent.parent().children().each(function(i, d){
-					if (i > parent.index()){
-						currentY = this.transform.baseVal[0].matrix.f;
-						$(this).attr("transform", "translate(0,"+(currentY - rowsHeight)+")");
-					}
-				});
-				parent.parent().parent().siblings().each(function(i){
-					index = parent.parent().parent().index();
-					if (i > (index-1)) {
-						currentY = this.transform.baseVal[0].matrix.f;
-						$(this).attr("transform", "translate(0,"+ (currentY - rowsHeight)+")");
-					}
-				});
-				idealBox.attr("height", function(){ return idealBoxHeight - rowsHeight; });
-				rowBackground.attr("height", height.row);
-				$("svg").attr("height", function(){ return svgHeight - rowsHeight });
-			} else {
-				parent.attr("class", "dimension-row open");
-				$(this).attr("transform", "translate(10) rotate(90,7,18)");
-				idealBox.attr("height", function(){ return idealBoxHeight + rowsHeight; });
-				rowBackground.attr("height", function() { return height.row + rowsHeight; });
-				rowCircles.attr("class", "circle row-circle hidden");
-				$("svg").attr("height", function(){ return svgHeight + rowsHeight; });
-				var id, thisID, parentID, thisParentID;
-				dimensionRows[0].forEach(function(selectedRow, i){
-					if (i == index) {
-						id = selectedRow.id
-						parentID = $("#"+id).parent().parent().attr("id");
-						indivRows = thisRow.selectAll(".indiv-row")
-						indivRows.attr("class", "indiv-row");
-						showSize = indivRows[0].length;
-					} else if (i > index) {
-						thisID = selectedRow.id
-						thisParentID = $("#"+thisID).parent().parent().attr("id");
-						if (parentID == thisParentID) {
-							currentY = document.getElementById(thisID).transform.baseVal[0].matrix.f
-							d3.select("#"+thisID).attr("transform", function(d){ return "translate(0," + (currentY + (height.row * showSize)) + ")"});					
-						}
-					}
-				});
-				dimensionGroups[0].forEach(function(group, i){
-					if (i > groupIndex) {
-						groupID = group.id
-						currentY = document.getElementById(groupID).transform.baseVal[0].matrix.f
-						d3.select("#"+groupID).attr("transform", function(d){ return "translate(0," + (currentY + (height.row * showSize)) + ")"});
-						newTransform = d3.select("#"+groupID).attr("transform");
-					}
-				});
-			}
-		});
+		.on("click", function(d,i){ 
+			var x = this;
+			expandRows(d,i,x) } );
 		
 //	g[1].transform.baseVal[0].matrix.f
 
+function expandRows(d,i,x) {
+	thisRow = d3.select(x.parentNode);
+	thisGroup = d3.select(x.parentNode.parentNode.parentNode);
+	dimensionRows = d3.selectAll(".dimension-row");
+	dimensionGroups = d3.selectAll(".dimGroupContainer");
+	index = dimensionRows[0].indexOf(thisRow[0][0]);
+	groupIndex = dimensionGroups[0].indexOf(thisGroup[0][0]);
+	var parent = $(x).parent();
+	indivRows = parent.find(".indiv-row");
+	var showSize = indivRows.length;
+	var rowsHeight = showSize * height.row;
+	var idealBox = parent.parent().parent().find(".ideal-box");
+	var idealBoxHeight = parseInt(idealBox.attr("height"));
+	var svgHeight = parseInt($("svg").attr("height"));
+	var rowBackground = parent.find(".rowBG");
+	var rowCircles = parent.find(".row-circle");
+
+	if (parent.attr("class") == "dimension-row open") {
+		$(x).attr("transform", "translate(0,0)"); // rotate the carat
+		parent.attr("class", "dimension-row"); // remove "open" class from parent
+//				$(indivRows).addClass("hidden");
+		indivRows.attr("class", "indiv-row hidden"); // hide the individual rows
+		rowCircles.attr("class", "circle row-circle") // remove "hidden" class from row-circles
+		parent.parent().children().each(function(i, d){
+			if (i > parent.index()){
+				currentY = this.transform.baseVal[0].matrix.f;
+				$(this).attr("transform", "translate(0,"+(currentY - rowsHeight)+")");
+			}
+		});
+		parent.parent().parent().siblings().each(function(i){
+			index = parent.parent().parent().index();
+			if (i > (index-1)) {
+				currentY = this.transform.baseVal[0].matrix.f;
+				$(this).attr("transform", "translate(0,"+ (currentY - rowsHeight)+")");
+			}
+		});
+		idealBox.attr("height", function(){ return idealBoxHeight - rowsHeight; });
+		rowBackground.attr("height", height.row);
+		$("svg").attr("height", function(){ return svgHeight - rowsHeight });
+	} else {
+		parent.attr("class", "dimension-row open");
+		$(x).attr("transform", "translate(10) rotate(90,7,18)");
+		idealBox.attr("height", function(){ return idealBoxHeight + rowsHeight; });
+		rowBackground.attr("height", function() { return height.row + rowsHeight; });
+		rowCircles.attr("class", "circle row-circle hidden");
+		$("svg").attr("height", function(){ return svgHeight + rowsHeight; });
+		var id, thisID, parentID, thisParentID;
+		dimensionRows[0].forEach(function(selectedRow, i){
+			if (i == index) {
+				id = selectedRow.id
+				parentID = $("#"+id).parent().parent().attr("id");
+				indivRows = thisRow.selectAll(".indiv-row")
+				indivRows.attr("class", "indiv-row");
+				showSize = indivRows[0].length;
+			} else if (i > index) {
+				thisID = selectedRow.id
+				thisParentID = $("#"+thisID).parent().parent().attr("id");
+				if (parentID == thisParentID) {
+					currentY = document.getElementById(thisID).transform.baseVal[0].matrix.f
+					d3.select("#"+thisID).attr("transform", function(d){ return "translate(0," + (currentY + (height.row * showSize)) + ")"});					
+				}
+			}
+		});
+		dimensionGroups[0].forEach(function(group, i){
+			if (i > groupIndex) {
+				groupID = group.id
+				currentY = document.getElementById(groupID).transform.baseVal[0].matrix.f
+				d3.select("#"+groupID).attr("transform", function(d){ return "translate(0," + (currentY + (height.row * showSize)) + ")"});
+				newTransform = d3.select("#"+groupID).attr("transform");
+			}
+		});
+	}
+}
 
 
 
-
+	documentHeight = document.body.clientHeight;
+	$(".menu").height(documentHeight);
 
 		
 	

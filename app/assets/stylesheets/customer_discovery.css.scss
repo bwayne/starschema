@@ -5,22 +5,26 @@
 
 	h2 { margin: 0; }
 	.dimGroupName { text-transform: uppercase; font-size: 18px; fill: #ccc; }
-	.dimName { fill: #000; }
+	.dimension-name { fill: #12A7E0; font-size: 14px; }
 	.header { background: #7adeff; }
 	.goal { margin-top: 25px; }
 	.rowBG { stroke: #ddd; stroke-width: 1px; shape-rendering: crispEdges;}
 	.ideal-box { fill: #7adeff; opacity: 0.1;}
+	.indivRowSeparator { shape-rendering: crispEdges; }
  
 /* https://github.com/Caged/d3-tip/blob/master/examples/example-styles.css */
 
 .d3-tip {
   line-height: 1;
-  font-weight: bold;
   padding: 12px;
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
+  background: rgba(255, 255, 255, 0.8);
+  color: #777;
   border-radius: 2px;
+  border: 1px solid #d3d3d3;
+  stroke: #d3d3d3;
+  stroke-width: 1px;
   pointer-events: none;
+  box-shadow: 2px 1px 1px rgba(0,0,0,0.2);
 }
 
 /* Creates a small triangle extender for the tooltip */
@@ -30,7 +34,8 @@
   font-size: 10px;
   width: 100%;
   line-height: 1;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
+  stroke: #d3d3d3;
   position: absolute;
   pointer-events: none;
 }
